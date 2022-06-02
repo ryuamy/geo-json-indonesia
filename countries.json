@@ -1,0 +1,2252 @@
+[
+	{
+		"name": "Afghanistan",
+		"iso_alpha_2_code": "AF",
+		"iso_alpha_3_code": "AFG",
+		"m49_code": "004",
+		"phone_code": "93",
+		"flag": "flags/afghanistan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Aland Islands",
+		"iso_alpha_2_code": "AX",
+		"iso_alpha_3_code": "ALA",
+		"m49_code": "248",
+		"phone_code": "",
+		"flag": "flags/aland-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Albania",
+		"iso_alpha_2_code": "AL",
+		"iso_alpha_3_code": "ALB",
+		"m49_code": "008",
+		"phone_code": "355",
+		"flag": "flags/albania.png",
+		"capital_city": null
+	},
+	{
+		"name": "Algeria",
+		"iso_alpha_2_code": "DZ",
+		"iso_alpha_3_code": "DZA",
+		"m49_code": "012",
+		"phone_code": "213",
+		"flag": "flags/algeria.png",
+		"capital_city": null
+	},
+	{
+		"name": "American Samoa",
+		"iso_alpha_2_code": "AS",
+		"iso_alpha_3_code": "ASM",
+		"m49_code": "016",
+		"phone_code": "1-684",
+		"flag": "flags/american-samoa.png",
+		"capital_city": null
+	},
+	{
+		"name": "Andorra",
+		"iso_alpha_2_code": "AD",
+		"iso_alpha_3_code": "AND",
+		"m49_code": "020",
+		"phone_code": "376",
+		"flag": "flags/andorra.png",
+		"capital_city": null
+	},
+	{
+		"name": "Angola",
+		"iso_alpha_2_code": "AO",
+		"iso_alpha_3_code": "AGO",
+		"m49_code": "024",
+		"phone_code": "244",
+		"flag": "flags/angola.png",
+		"capital_city": null
+	},
+	{
+		"name": "Anguilla",
+		"iso_alpha_2_code": "AI",
+		"iso_alpha_3_code": "AIA",
+		"m49_code": "660",
+		"phone_code": "1-264",
+		"flag": "flags/anguilla.png",
+		"capital_city": null
+	},
+	{
+		"name": "Antarctica",
+		"iso_alpha_2_code": "AQ",
+		"iso_alpha_3_code": "ATA",
+		"m49_code": "010",
+		"phone_code": "672",
+		"flag": "flags/antarctica.png",
+		"capital_city": null
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"iso_alpha_2_code": "AG",
+		"iso_alpha_3_code": "ATG",
+		"m49_code": "028",
+		"phone_code": "1-268",
+		"flag": "flags/antigua-and-barbuda.png",
+		"capital_city": null
+	},
+	{
+		"name": "Argentina",
+		"iso_alpha_2_code": "AR",
+		"iso_alpha_3_code": "ARG",
+		"m49_code": "032",
+		"phone_code": "54",
+		"flag": "flags/argentina.png",
+		"capital_city": null
+	},
+	{
+		"name": "Armenia",
+		"iso_alpha_2_code": "AM",
+		"iso_alpha_3_code": "ARM",
+		"m49_code": "051",
+		"phone_code": "374",
+		"flag": "flags/armenia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Aruba",
+		"iso_alpha_2_code": "AW",
+		"iso_alpha_3_code": "ABW",
+		"m49_code": "533",
+		"phone_code": "297",
+		"flag": "flags/aruba.png",
+		"capital_city": null
+	},
+	{
+		"name": "Australia",
+		"iso_alpha_2_code": "AU",
+		"iso_alpha_3_code": "AUS",
+		"m49_code": "036",
+		"phone_code": "61",
+		"flag": "flags/australia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Austria",
+		"iso_alpha_2_code": "AT",
+		"iso_alpha_3_code": "AUT",
+		"m49_code": "040",
+		"phone_code": "43",
+		"flag": "flags/austria.png",
+		"capital_city": null
+	},
+	{
+		"name": "Azerbaijan",
+		"iso_alpha_2_code": "AZ",
+		"iso_alpha_3_code": "AZE",
+		"m49_code": "031",
+		"phone_code": "994",
+		"flag": "flags/azerbaijan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bahamas",
+		"iso_alpha_2_code": "BS",
+		"iso_alpha_3_code": "BHS",
+		"m49_code": "044",
+		"phone_code": "1-242",
+		"flag": "flags/bahamas.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bahrain",
+		"iso_alpha_2_code": "BH",
+		"iso_alpha_3_code": "BHR",
+		"m49_code": "048",
+		"phone_code": "973",
+		"flag": "flags/bahrain.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bangladesh",
+		"iso_alpha_2_code": "BD",
+		"iso_alpha_3_code": "BGD",
+		"m49_code": "050",
+		"phone_code": "880",
+		"flag": "flags/bangladesh.png",
+		"capital_city": null
+	},
+	{
+		"name": "Barbados",
+		"iso_alpha_2_code": "BB",
+		"iso_alpha_3_code": "BRB",
+		"m49_code": "052",
+		"phone_code": "1-246",
+		"flag": "flags/barbados.png",
+		"capital_city": null
+	},
+	{
+		"name": "Belarus",
+		"iso_alpha_2_code": "BY",
+		"iso_alpha_3_code": "BLR",
+		"m49_code": "112",
+		"phone_code": "375",
+		"flag": "flags/belarus.png",
+		"capital_city": null
+	},
+	{
+		"name": "Belgium",
+		"iso_alpha_2_code": "BE",
+		"iso_alpha_3_code": "BEL",
+		"m49_code": "056",
+		"phone_code": "32",
+		"flag": "flags/belgium.png",
+		"capital_city": null
+	},
+	{
+		"name": "Belize",
+		"iso_alpha_2_code": "BZ",
+		"iso_alpha_3_code": "BLZ",
+		"m49_code": "084",
+		"phone_code": "501",
+		"flag": "flags/belize.png",
+		"capital_city": null
+	},
+	{
+		"name": "Benin",
+		"iso_alpha_2_code": "BJ",
+		"iso_alpha_3_code": "BEN",
+		"m49_code": "204",
+		"phone_code": "229",
+		"flag": "flags/benin.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bermuda",
+		"iso_alpha_2_code": "BM",
+		"iso_alpha_3_code": "BMU",
+		"m49_code": "060",
+		"phone_code": "1-441",
+		"flag": "flags/bermuda.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bhutan",
+		"iso_alpha_2_code": "BT",
+		"iso_alpha_3_code": "BTN",
+		"m49_code": "064",
+		"phone_code": "975",
+		"flag": "flags/bhutan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bolivia",
+		"iso_alpha_2_code": "BO",
+		"iso_alpha_3_code": "BOL",
+		"m49_code": "068",
+		"phone_code": "591",
+		"flag": "flags/bolivia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"iso_alpha_2_code": "BA",
+		"iso_alpha_3_code": "BIH",
+		"m49_code": "070",
+		"phone_code": "387",
+		"flag": "flags/bosnia-and-herzegovina.png",
+		"capital_city": null
+	},
+	{
+		"name": "Botswana",
+		"iso_alpha_2_code": "BW",
+		"iso_alpha_3_code": "BWA",
+		"m49_code": "072",
+		"phone_code": "267",
+		"flag": "flags/botswana.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bouvet Island",
+		"iso_alpha_2_code": "BV",
+		"iso_alpha_3_code": "BVT",
+		"m49_code": "074",
+		"phone_code": "",
+		"flag": "flags/bouvet-island.png",
+		"capital_city": null
+	},
+	{
+		"name": "Brazil",
+		"iso_alpha_2_code": "BR",
+		"iso_alpha_3_code": "BRA",
+		"m49_code": "076",
+		"phone_code": "55",
+		"flag": "flags/brazil.png",
+		"capital_city": null
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"iso_alpha_2_code": "IO",
+		"iso_alpha_3_code": "IOT",
+		"m49_code": "086",
+		"phone_code": "246",
+		"flag": "flags/british-indian-ocean-territory.png",
+		"capital_city": null
+	},
+	{
+		"name": "British Virgin Islands",
+		"iso_alpha_2_code": "VG",
+		"iso_alpha_3_code": "VGB",
+		"m49_code": "092",
+		"phone_code": "1-284",
+		"flag": "flags/british-virgin-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Brunei Darussalam",
+		"iso_alpha_2_code": "BN",
+		"iso_alpha_3_code": "BRN",
+		"m49_code": "096",
+		"phone_code": "673",
+		"flag": "flags/brunei-darussalam.png",
+		"capital_city": null
+	},
+	{
+		"name": "Bulgaria",
+		"iso_alpha_2_code": "BG",
+		"iso_alpha_3_code": "BGR",
+		"m49_code": "100",
+		"phone_code": "359",
+		"flag": "flags/bulgaria.png",
+		"capital_city": null
+	},
+	{
+		"name": "Burkina Faso",
+		"iso_alpha_2_code": "BF",
+		"iso_alpha_3_code": "BFA",
+		"m49_code": "854",
+		"phone_code": "226",
+		"flag": "flags/burkina-faso.png",
+		"capital_city": null
+	},
+	{
+		"name": "Burundi",
+		"iso_alpha_2_code": "BI",
+		"iso_alpha_3_code": "BDI",
+		"m49_code": "108",
+		"phone_code": "257",
+		"flag": "flags/burundi.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cambodia",
+		"iso_alpha_2_code": "KH",
+		"iso_alpha_3_code": "KHM",
+		"m49_code": "116",
+		"phone_code": "855",
+		"flag": "flags/cambodia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cameroon",
+		"iso_alpha_2_code": "CM",
+		"iso_alpha_3_code": "CMR",
+		"m49_code": "120",
+		"phone_code": "237",
+		"flag": "flags/cameroon.png",
+		"capital_city": null
+	},
+	{
+		"name": "Canada",
+		"iso_alpha_2_code": "CA",
+		"iso_alpha_3_code": "CAN",
+		"m49_code": "124",
+		"phone_code": "1",
+		"flag": "flags/canada.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cape Verde",
+		"iso_alpha_2_code": "CV",
+		"iso_alpha_3_code": "CPV",
+		"m49_code": "132",
+		"phone_code": "238",
+		"flag": "flags/cape-verde.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cayman Islands",
+		"iso_alpha_2_code": "KY",
+		"iso_alpha_3_code": "CYM",
+		"m49_code": "136",
+		"phone_code": "1-345",
+		"flag": "flags/cayman-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Central African Republic",
+		"iso_alpha_2_code": "CF",
+		"iso_alpha_3_code": "CAF",
+		"m49_code": "140",
+		"phone_code": "236",
+		"flag": "flags/central-african-republic.png",
+		"capital_city": null
+	},
+	{
+		"name": "Chad",
+		"iso_alpha_2_code": "TD",
+		"iso_alpha_3_code": "TCD",
+		"m49_code": "148",
+		"phone_code": "235",
+		"flag": "flags/chad.png",
+		"capital_city": null
+	},
+	{
+		"name": "Chile",
+		"iso_alpha_2_code": "CL",
+		"iso_alpha_3_code": "CHL",
+		"m49_code": "152",
+		"phone_code": "56",
+		"flag": "flags/chile.png",
+		"capital_city": null
+	},
+	{
+		"name": "China",
+		"iso_alpha_2_code": "CN",
+		"iso_alpha_3_code": "CHN",
+		"m49_code": "156",
+		"phone_code": "86",
+		"flag": "flags/china.png",
+		"capital_city": null
+	},
+	{
+		"name": "Christmas Island",
+		"iso_alpha_2_code": "CX",
+		"iso_alpha_3_code": "CXR",
+		"m49_code": "162",
+		"phone_code": "61",
+		"flag": "flags/christmas-island.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cocos (Keeling) Islands",
+		"iso_alpha_2_code": "CC",
+		"iso_alpha_3_code": "CCK",
+		"m49_code": "166",
+		"phone_code": "61",
+		"flag": "flags/cocos--keeling--islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Colombia",
+		"iso_alpha_2_code": "CO",
+		"iso_alpha_3_code": "COL",
+		"m49_code": "170",
+		"phone_code": "57",
+		"flag": "flags/colombia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Comoros",
+		"iso_alpha_2_code": "KM",
+		"iso_alpha_3_code": "COM",
+		"m49_code": "174",
+		"phone_code": "269",
+		"flag": "flags/comoros.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cook Islands",
+		"iso_alpha_2_code": "CK",
+		"iso_alpha_3_code": "COK",
+		"m49_code": "184",
+		"phone_code": "682",
+		"flag": "flags/cook-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Costa Rica",
+		"iso_alpha_2_code": "CR",
+		"iso_alpha_3_code": "CRI",
+		"m49_code": "188",
+		"phone_code": "506",
+		"flag": "flags/costa-rica.png",
+		"capital_city": null
+	},
+	{
+		"name": "Côte d'Ivoire",
+		"iso_alpha_2_code": "CI",
+		"iso_alpha_3_code": "CIV",
+		"m49_code": "384",
+		"phone_code": "225",
+		"flag": "flags/cote-d-ivoire.png",
+		"capital_city": null
+	},
+	{
+		"name": "Croatia",
+		"iso_alpha_2_code": "HR",
+		"iso_alpha_3_code": "HRV",
+		"m49_code": "191",
+		"phone_code": "385",
+		"flag": "flags/croatia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cuba",
+		"iso_alpha_2_code": "CU",
+		"iso_alpha_3_code": "CUB",
+		"m49_code": "192",
+		"phone_code": "53",
+		"flag": "flags/cuba.png",
+		"capital_city": null
+	},
+	{
+		"name": "Curaçao Island",
+		"iso_alpha_2_code": "CW",
+		"iso_alpha_3_code": "CUW",
+		"m49_code": "",
+		"phone_code": "599",
+		"flag": "flags/curacao-island.png",
+		"capital_city": null
+	},
+	{
+		"name": "Cyprus",
+		"iso_alpha_2_code": "CY",
+		"iso_alpha_3_code": "CYP",
+		"m49_code": "196",
+		"phone_code": "357",
+		"flag": "flags/cyprus.png",
+		"capital_city": null
+	},
+	{
+		"name": "Czech Republic",
+		"iso_alpha_2_code": "CZ",
+		"iso_alpha_3_code": "CZE",
+		"m49_code": "203",
+		"phone_code": "420",
+		"flag": "flags/czech-republic.png",
+		"capital_city": null
+	},
+	{
+		"name": "Democratic Republic of the Congo",
+		"iso_alpha_2_code": "CD",
+		"iso_alpha_3_code": "COD",
+		"m49_code": "180",
+		"phone_code": "243",
+		"flag": "flags/democratic-republic-of-the-congo.png",
+		"capital_city": null
+	},
+	{
+		"name": "Denmark",
+		"iso_alpha_2_code": "DK",
+		"iso_alpha_3_code": "DNK",
+		"m49_code": "208",
+		"phone_code": "45",
+		"flag": "flags/denmark.png",
+		"capital_city": null
+	},
+	{
+		"name": "Djibouti",
+		"iso_alpha_2_code": "DJ",
+		"iso_alpha_3_code": "DJI",
+		"m49_code": "262",
+		"phone_code": "253",
+		"flag": "flags/djibouti.png",
+		"capital_city": null
+	},
+	{
+		"name": "Dominica",
+		"iso_alpha_2_code": "DM",
+		"iso_alpha_3_code": "DMA",
+		"m49_code": "212",
+		"phone_code": "1-767",
+		"flag": "flags/dominica.png",
+		"capital_city": null
+	},
+	{
+		"name": "Dominican Republic",
+		"iso_alpha_2_code": "DO",
+		"iso_alpha_3_code": "DOM",
+		"m49_code": "214",
+		"phone_code": "1-809",
+		"flag": "flags/dominican-republic.png",
+		"capital_city": null
+	},
+	{
+		"name": "Ecuador",
+		"iso_alpha_2_code": "EC",
+		"iso_alpha_3_code": "ECU",
+		"m49_code": "218",
+		"phone_code": "593",
+		"flag": "flags/ecuador.png",
+		"capital_city": null
+	},
+	{
+		"name": "Egypt",
+		"iso_alpha_2_code": "EG",
+		"iso_alpha_3_code": "EGY",
+		"m49_code": "818",
+		"phone_code": "20",
+		"flag": "flags/egypt.png",
+		"capital_city": null
+	},
+	{
+		"name": "El Salvador",
+		"iso_alpha_2_code": "SV",
+		"iso_alpha_3_code": "SLV",
+		"m49_code": "222",
+		"phone_code": "503",
+		"flag": "flags/el-salvador.png",
+		"capital_city": null
+	},
+	{
+		"name": "Equatorial Guinea",
+		"iso_alpha_2_code": "GQ",
+		"iso_alpha_3_code": "GNQ",
+		"m49_code": "226",
+		"phone_code": "240",
+		"flag": "flags/equatorial-guinea.png",
+		"capital_city": null
+	},
+	{
+		"name": "Eritrea",
+		"iso_alpha_2_code": "ER",
+		"iso_alpha_3_code": "ERI",
+		"m49_code": "232",
+		"phone_code": "291",
+		"flag": "flags/eritrea.png",
+		"capital_city": null
+	},
+	{
+		"name": "Estonia",
+		"iso_alpha_2_code": "EE",
+		"iso_alpha_3_code": "EST",
+		"m49_code": "233",
+		"phone_code": "372",
+		"flag": "flags/estonia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Ethiopia",
+		"iso_alpha_2_code": "ET",
+		"iso_alpha_3_code": "ETH",
+		"m49_code": "231",
+		"phone_code": "251",
+		"flag": "flags/ethiopia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Falkland Islands (Malvinas)",
+		"iso_alpha_2_code": "FK",
+		"iso_alpha_3_code": "FLK",
+		"m49_code": "238",
+		"phone_code": "500",
+		"flag": "flags/falkland-islands--malvinas-.png",
+		"capital_city": null
+	},
+	{
+		"name": "Faroe Islands",
+		"iso_alpha_2_code": "FO",
+		"iso_alpha_3_code": "FRO",
+		"m49_code": "234",
+		"phone_code": "298",
+		"flag": "flags/faroe-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Fiji",
+		"iso_alpha_2_code": "FJ",
+		"iso_alpha_3_code": "FJI",
+		"m49_code": "242",
+		"phone_code": "679",
+		"flag": "flags/fiji.png",
+		"capital_city": null
+	},
+	{
+		"name": "Finland",
+		"iso_alpha_2_code": "FI",
+		"iso_alpha_3_code": "FIN",
+		"m49_code": "246",
+		"phone_code": "358",
+		"flag": "flags/finland.png",
+		"capital_city": null
+	},
+	{
+		"name": "France",
+		"iso_alpha_2_code": "FR",
+		"iso_alpha_3_code": "FRA",
+		"m49_code": "250",
+		"phone_code": "33",
+		"flag": "flags/france.png",
+		"capital_city": null
+	},
+	{
+		"name": "French Guiana",
+		"iso_alpha_2_code": "GF",
+		"iso_alpha_3_code": "GUF",
+		"m49_code": "254",
+		"phone_code": "",
+		"flag": "flags/french-guiana.png",
+		"capital_city": null
+	},
+	{
+		"name": "French Polynesia",
+		"iso_alpha_2_code": "PF",
+		"iso_alpha_3_code": "PYF",
+		"m49_code": "258",
+		"phone_code": "689",
+		"flag": "flags/french-polynesia.png",
+		"capital_city": null
+	},
+	{
+		"name": "French Southern Territories",
+		"iso_alpha_2_code": "TF",
+		"iso_alpha_3_code": "ATF",
+		"m49_code": "260",
+		"phone_code": "",
+		"flag": "flags/french-southern-territories.png",
+		"capital_city": null
+	},
+	{
+		"name": "Gabon",
+		"iso_alpha_2_code": "GA",
+		"iso_alpha_3_code": "GAB",
+		"m49_code": "266",
+		"phone_code": "241",
+		"flag": "flags/gabon.png",
+		"capital_city": null
+	},
+	{
+		"name": "Gambia",
+		"iso_alpha_2_code": "GM",
+		"iso_alpha_3_code": "GMB",
+		"m49_code": "270",
+		"phone_code": "220",
+		"flag": "flags/gambia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Georgia",
+		"iso_alpha_2_code": "GE",
+		"iso_alpha_3_code": "GEO",
+		"m49_code": "268",
+		"phone_code": "995",
+		"flag": "flags/georgia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Germany",
+		"iso_alpha_2_code": "DE",
+		"iso_alpha_3_code": "DEU",
+		"m49_code": "276",
+		"phone_code": "49",
+		"flag": "flags/germany.png",
+		"capital_city": null
+	},
+	{
+		"name": "Ghana",
+		"iso_alpha_2_code": "GH",
+		"iso_alpha_3_code": "GHA",
+		"m49_code": "288",
+		"phone_code": "233",
+		"flag": "flags/ghana.png",
+		"capital_city": null
+	},
+	{
+		"name": "Gibraltar",
+		"iso_alpha_2_code": "GI",
+		"iso_alpha_3_code": "GIB",
+		"m49_code": "292",
+		"phone_code": "350",
+		"flag": "flags/gibraltar.png",
+		"capital_city": null
+	},
+	{
+		"name": "Greece",
+		"iso_alpha_2_code": "GR",
+		"iso_alpha_3_code": "GRC",
+		"m49_code": "300",
+		"phone_code": "30",
+		"flag": "flags/greece.png",
+		"capital_city": null
+	},
+	{
+		"name": "Greenland",
+		"iso_alpha_2_code": "GL",
+		"iso_alpha_3_code": "GRL",
+		"m49_code": "304",
+		"phone_code": "299",
+		"flag": "flags/greenland.png",
+		"capital_city": null
+	},
+	{
+		"name": "Grenada",
+		"iso_alpha_2_code": "GD",
+		"iso_alpha_3_code": "GRD",
+		"m49_code": "308",
+		"phone_code": "1-473",
+		"flag": "flags/grenada.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guadeloupe",
+		"iso_alpha_2_code": "GP",
+		"iso_alpha_3_code": "GLP",
+		"m49_code": "312",
+		"phone_code": "",
+		"flag": "flags/guadeloupe.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guam",
+		"iso_alpha_2_code": "GU",
+		"iso_alpha_3_code": "GUM",
+		"m49_code": "316",
+		"phone_code": "1-671",
+		"flag": "flags/guam.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guatemala",
+		"iso_alpha_2_code": "GT",
+		"iso_alpha_3_code": "GTM",
+		"m49_code": "320",
+		"phone_code": "502",
+		"flag": "flags/guatemala.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guernsey",
+		"iso_alpha_2_code": "GG",
+		"iso_alpha_3_code": "GGY",
+		"m49_code": "831",
+		"phone_code": "44-1481",
+		"flag": "flags/guernsey.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guinea",
+		"iso_alpha_2_code": "GN",
+		"iso_alpha_3_code": "GIN",
+		"m49_code": "324",
+		"phone_code": "224",
+		"flag": "flags/guinea.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guinea-Bissau",
+		"iso_alpha_2_code": "GW",
+		"iso_alpha_3_code": "GNB",
+		"m49_code": "624",
+		"phone_code": "245",
+		"flag": "flags/guinea-bissau.png",
+		"capital_city": null
+	},
+	{
+		"name": "Guyana",
+		"iso_alpha_2_code": "GY",
+		"iso_alpha_3_code": "GUY",
+		"m49_code": "328",
+		"phone_code": "592",
+		"flag": "flags/guyana.png",
+		"capital_city": null
+	},
+	{
+		"name": "Haiti",
+		"iso_alpha_2_code": "HT",
+		"iso_alpha_3_code": "HTI",
+		"m49_code": "332",
+		"phone_code": "509",
+		"flag": "flags/haiti.png",
+		"capital_city": null
+	},
+	{
+		"name": "Heard Island and McDonald Islands",
+		"iso_alpha_2_code": "HM",
+		"iso_alpha_3_code": "HMD",
+		"m49_code": "334",
+		"phone_code": "",
+		"flag": "flags/heard-island-and-mcdonald-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Holy See (Vatican City State)",
+		"iso_alpha_2_code": "VA",
+		"iso_alpha_3_code": "VAT",
+		"m49_code": "336",
+		"phone_code": "379",
+		"flag": "flags/holy-see--vatican-city-state-.png",
+		"capital_city": null
+	},
+	{
+		"name": "Honduras",
+		"iso_alpha_2_code": "HN",
+		"iso_alpha_3_code": "HND",
+		"m49_code": "340",
+		"phone_code": "504",
+		"flag": "flags/honduras.png",
+		"capital_city": null
+	},
+	{
+		"name": "Hong Kong, SAR China",
+		"iso_alpha_2_code": "HK",
+		"iso_alpha_3_code": "HKG",
+		"m49_code": "344",
+		"phone_code": "852",
+		"flag": "flags/hong-kong--sar-china.png",
+		"capital_city": null
+	},
+	{
+		"name": "Hungary",
+		"iso_alpha_2_code": "HU",
+		"iso_alpha_3_code": "HUN",
+		"m49_code": "348",
+		"phone_code": "36",
+		"flag": "flags/hungary.png",
+		"capital_city": null
+	},
+	{
+		"name": "Iceland",
+		"iso_alpha_2_code": "IS",
+		"iso_alpha_3_code": "ISL",
+		"m49_code": "352",
+		"phone_code": "354",
+		"flag": "flags/iceland.png",
+		"capital_city": null
+	},
+	{
+		"name": "India",
+		"iso_alpha_2_code": "IN",
+		"iso_alpha_3_code": "IND",
+		"m49_code": "356",
+		"phone_code": "91",
+		"flag": "flags/india.png",
+		"capital_city": null
+	},
+	{
+		"name": "Indonesia",
+		"iso_alpha_2_code": "ID",
+		"iso_alpha_3_code": "IDN",
+		"m49_code": "360",
+		"phone_code": "62",
+		"flag": "flags/indonesia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Iran, Islamic Republic of",
+		"iso_alpha_2_code": "IR",
+		"iso_alpha_3_code": "IRN",
+		"m49_code": "364",
+		"phone_code": "98",
+		"flag": "flags/iran--islamic-republic-of.png",
+		"capital_city": null
+	},
+	{
+		"name": "Iraq",
+		"iso_alpha_2_code": "IQ",
+		"iso_alpha_3_code": "IRQ",
+		"m49_code": "368",
+		"phone_code": "964",
+		"flag": "flags/iraq.png",
+		"capital_city": null
+	},
+	{
+		"name": "Ireland",
+		"iso_alpha_2_code": "IE",
+		"iso_alpha_3_code": "IRL",
+		"m49_code": "372",
+		"phone_code": "353",
+		"flag": "flags/ireland.png",
+		"capital_city": null
+	},
+	{
+		"name": "Isle of Man",
+		"iso_alpha_2_code": "IM",
+		"iso_alpha_3_code": "IMN",
+		"m49_code": "833",
+		"phone_code": "44-1624",
+		"flag": "flags/isle-of-man.png",
+		"capital_city": null
+	},
+	{
+		"name": "Israel",
+		"iso_alpha_2_code": "IL",
+		"iso_alpha_3_code": "ISR",
+		"m49_code": "376",
+		"phone_code": "972",
+		"flag": "flags/israel.png",
+		"capital_city": null
+	},
+	{
+		"name": "Italy",
+		"iso_alpha_2_code": "IT",
+		"iso_alpha_3_code": "ITA",
+		"m49_code": "380",
+		"phone_code": "39",
+		"flag": "flags/italy.png",
+		"capital_city": null
+	},
+	{
+		"name": "Jamaica",
+		"iso_alpha_2_code": "JM",
+		"iso_alpha_3_code": "JAM",
+		"m49_code": "388",
+		"phone_code": "1-876",
+		"flag": "flags/jamaica.png",
+		"capital_city": null
+	},
+	{
+		"name": "Japan",
+		"iso_alpha_2_code": "JP",
+		"iso_alpha_3_code": "JPN",
+		"m49_code": "392",
+		"phone_code": "81",
+		"flag": "flags/japan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Jersey",
+		"iso_alpha_2_code": "JE",
+		"iso_alpha_3_code": "JEY",
+		"m49_code": "832",
+		"phone_code": "44-1534",
+		"flag": "flags/jersey.png",
+		"capital_city": null
+	},
+	{
+		"name": "Jordan",
+		"iso_alpha_2_code": "JO",
+		"iso_alpha_3_code": "JOR",
+		"m49_code": "400",
+		"phone_code": "962",
+		"flag": "flags/jordan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kazakhstan",
+		"iso_alpha_2_code": "KZ",
+		"iso_alpha_3_code": "KAZ",
+		"m49_code": "398",
+		"phone_code": "7",
+		"flag": "flags/kazakhstan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kenya",
+		"iso_alpha_2_code": "KE",
+		"iso_alpha_3_code": "KEN",
+		"m49_code": "404",
+		"phone_code": "254",
+		"flag": "flags/kenya.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kiribati",
+		"iso_alpha_2_code": "KI",
+		"iso_alpha_3_code": "KIR",
+		"m49_code": "296",
+		"phone_code": "686",
+		"flag": "flags/kiribati.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kosovo, Republic of",
+		"iso_alpha_2_code": "XK",
+		"iso_alpha_3_code": "XKX",
+		"m49_code": "",
+		"phone_code": "383",
+		"flag": "flags/kosovo--republic-of.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kuwait",
+		"iso_alpha_2_code": "KW",
+		"iso_alpha_3_code": "KWT",
+		"m49_code": "414",
+		"phone_code": "965",
+		"flag": "flags/kuwait.png",
+		"capital_city": null
+	},
+	{
+		"name": "Kyrgyzstan",
+		"iso_alpha_2_code": "KG",
+		"iso_alpha_3_code": "KGZ",
+		"m49_code": "417",
+		"phone_code": "996",
+		"flag": "flags/kyrgyzstan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Lao People's Democratic Republic",
+		"iso_alpha_2_code": "LA",
+		"iso_alpha_3_code": "LAO",
+		"m49_code": "418",
+		"phone_code": "856",
+		"flag": "flags/lao-people-s-democratic-republic.png",
+		"capital_city": null
+	},
+	{
+		"name": "Latvia",
+		"iso_alpha_2_code": "LV",
+		"iso_alpha_3_code": "LVA",
+		"m49_code": "428",
+		"phone_code": "371",
+		"flag": "flags/latvia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Lebanon",
+		"iso_alpha_2_code": "LB",
+		"iso_alpha_3_code": "LBN",
+		"m49_code": "422",
+		"phone_code": "961",
+		"flag": "flags/lebanon.png",
+		"capital_city": null
+	},
+	{
+		"name": "Lesotho",
+		"iso_alpha_2_code": "LS",
+		"iso_alpha_3_code": "LSO",
+		"m49_code": "426",
+		"phone_code": "266",
+		"flag": "flags/lesotho.png",
+		"capital_city": null
+	},
+	{
+		"name": "Liberia",
+		"iso_alpha_2_code": "LR",
+		"iso_alpha_3_code": "LBR",
+		"m49_code": "430",
+		"phone_code": "231",
+		"flag": "flags/liberia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Libya",
+		"iso_alpha_2_code": "LY",
+		"iso_alpha_3_code": "LBY",
+		"m49_code": "434",
+		"phone_code": "218",
+		"flag": "flags/libya.png",
+		"capital_city": null
+	},
+	{
+		"name": "Liechtenstein",
+		"iso_alpha_2_code": "LI",
+		"iso_alpha_3_code": "LIE",
+		"m49_code": "438",
+		"phone_code": "423",
+		"flag": "flags/liechtenstein.png",
+		"capital_city": null
+	},
+	{
+		"name": "Lithuania",
+		"iso_alpha_2_code": "LT",
+		"iso_alpha_3_code": "LTU",
+		"m49_code": "440",
+		"phone_code": "370",
+		"flag": "flags/lithuania.png",
+		"capital_city": null
+	},
+	{
+		"name": "Luxembourg",
+		"iso_alpha_2_code": "LU",
+		"iso_alpha_3_code": "LUX",
+		"m49_code": "442",
+		"phone_code": "352",
+		"flag": "flags/luxembourg.png",
+		"capital_city": null
+	},
+	{
+		"name": "Macao, SAR China",
+		"iso_alpha_2_code": "MO",
+		"iso_alpha_3_code": "MAC",
+		"m49_code": "446",
+		"phone_code": "853",
+		"flag": "flags/macao--sar-china.png",
+		"capital_city": null
+	},
+	{
+		"name": "Macedonia, Republic of",
+		"iso_alpha_2_code": "MK",
+		"iso_alpha_3_code": "MKD",
+		"m49_code": "807",
+		"phone_code": "389",
+		"flag": "flags/macedonia--republic-of.png",
+		"capital_city": null
+	},
+	{
+		"name": "Madagascar",
+		"iso_alpha_2_code": "MG",
+		"iso_alpha_3_code": "MDG",
+		"m49_code": "450",
+		"phone_code": "261",
+		"flag": "flags/madagascar.png",
+		"capital_city": null
+	},
+	{
+		"name": "Malawi",
+		"iso_alpha_2_code": "MW",
+		"iso_alpha_3_code": "MWI",
+		"m49_code": "454",
+		"phone_code": "265",
+		"flag": "flags/malawi.png",
+		"capital_city": null
+	},
+	{
+		"name": "Malaysia",
+		"iso_alpha_2_code": "MY",
+		"iso_alpha_3_code": "MYS",
+		"m49_code": "458",
+		"phone_code": "60",
+		"flag": "flags/malaysia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Maldives",
+		"iso_alpha_2_code": "MV",
+		"iso_alpha_3_code": "MDV",
+		"m49_code": "462",
+		"phone_code": "960",
+		"flag": "flags/maldives.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mali",
+		"iso_alpha_2_code": "ML",
+		"iso_alpha_3_code": "MLI",
+		"m49_code": "466",
+		"phone_code": "223",
+		"flag": "flags/mali.png",
+		"capital_city": null
+	},
+	{
+		"name": "Malta",
+		"iso_alpha_2_code": "MT",
+		"iso_alpha_3_code": "MLT",
+		"m49_code": "470",
+		"phone_code": "356",
+		"flag": "flags/malta.png",
+		"capital_city": null
+	},
+	{
+		"name": "Marshall Islands",
+		"iso_alpha_2_code": "MH",
+		"iso_alpha_3_code": "MHL",
+		"m49_code": "584",
+		"phone_code": "692",
+		"flag": "flags/marshall-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Martinique",
+		"iso_alpha_2_code": "MQ",
+		"iso_alpha_3_code": "MTQ",
+		"m49_code": "474",
+		"phone_code": "",
+		"flag": "flags/martinique.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mauritania",
+		"iso_alpha_2_code": "MR",
+		"iso_alpha_3_code": "MRT",
+		"m49_code": "478",
+		"phone_code": "222",
+		"flag": "flags/mauritania.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mauritius",
+		"iso_alpha_2_code": "MU",
+		"iso_alpha_3_code": "MUS",
+		"m49_code": "480",
+		"phone_code": "230",
+		"flag": "flags/mauritius.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mayotte",
+		"iso_alpha_2_code": "YT",
+		"iso_alpha_3_code": "MYT",
+		"m49_code": "175",
+		"phone_code": "262",
+		"flag": "flags/mayotte.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mexico",
+		"iso_alpha_2_code": "MX",
+		"iso_alpha_3_code": "MEX",
+		"m49_code": "484",
+		"phone_code": "52",
+		"flag": "flags/mexico.png",
+		"capital_city": null
+	},
+	{
+		"name": "Micronesia, Federated States of",
+		"iso_alpha_2_code": "FM",
+		"iso_alpha_3_code": "FSM",
+		"m49_code": "583",
+		"phone_code": "691",
+		"flag": "flags/micronesia--federated-states-of.png",
+		"capital_city": null
+	},
+	{
+		"name": "Moldova",
+		"iso_alpha_2_code": "MD",
+		"iso_alpha_3_code": "MDA",
+		"m49_code": "498",
+		"phone_code": "373",
+		"flag": "flags/moldova.png",
+		"capital_city": null
+	},
+	{
+		"name": "Monaco",
+		"iso_alpha_2_code": "MC",
+		"iso_alpha_3_code": "MCO",
+		"m49_code": "492",
+		"phone_code": "377",
+		"flag": "flags/monaco.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mongolia",
+		"iso_alpha_2_code": "MN",
+		"iso_alpha_3_code": "MNG",
+		"m49_code": "496",
+		"phone_code": "976",
+		"flag": "flags/mongolia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Montenegro",
+		"iso_alpha_2_code": "ME",
+		"iso_alpha_3_code": "MNE",
+		"m49_code": "499",
+		"phone_code": "382",
+		"flag": "flags/montenegro.png",
+		"capital_city": null
+	},
+	{
+		"name": "Montserrat",
+		"iso_alpha_2_code": "MS",
+		"iso_alpha_3_code": "MSR",
+		"m49_code": "500",
+		"phone_code": "1-664",
+		"flag": "flags/montserrat.png",
+		"capital_city": null
+	},
+	{
+		"name": "Morocco",
+		"iso_alpha_2_code": "MA",
+		"iso_alpha_3_code": "MAR",
+		"m49_code": "504",
+		"phone_code": "212",
+		"flag": "flags/morocco.png",
+		"capital_city": null
+	},
+	{
+		"name": "Mozambique",
+		"iso_alpha_2_code": "MZ",
+		"iso_alpha_3_code": "MOZ",
+		"m49_code": "508",
+		"phone_code": "258",
+		"flag": "flags/mozambique.png",
+		"capital_city": null
+	},
+	{
+		"name": "Myanmar",
+		"iso_alpha_2_code": "MM",
+		"iso_alpha_3_code": "MMR",
+		"m49_code": "104",
+		"phone_code": "95",
+		"flag": "flags/myanmar.png",
+		"capital_city": null
+	},
+	{
+		"name": "Namibia",
+		"iso_alpha_2_code": "NA",
+		"iso_alpha_3_code": "NAM",
+		"m49_code": "516",
+		"phone_code": "264",
+		"flag": "flags/namibia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Nauru",
+		"iso_alpha_2_code": "NR",
+		"iso_alpha_3_code": "NRU",
+		"m49_code": "520",
+		"phone_code": "674",
+		"flag": "flags/nauru.png",
+		"capital_city": null
+	},
+	{
+		"name": "Nepal",
+		"iso_alpha_2_code": "NP",
+		"iso_alpha_3_code": "NPL",
+		"m49_code": "524",
+		"phone_code": "977",
+		"flag": "flags/nepal.png",
+		"capital_city": null
+	},
+	{
+		"name": "Netherlands",
+		"iso_alpha_2_code": "NL",
+		"iso_alpha_3_code": "NLD",
+		"m49_code": "528",
+		"phone_code": "31",
+		"flag": "flags/netherlands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Netherlands Antilles",
+		"iso_alpha_2_code": "AN",
+		"iso_alpha_3_code": "ANT",
+		"m49_code": "530",
+		"phone_code": "599",
+		"flag": "flags/netherlands-antilles.png",
+		"capital_city": null
+	},
+	{
+		"name": "New Caledonia",
+		"iso_alpha_2_code": "NC",
+		"iso_alpha_3_code": "NCL",
+		"m49_code": "540",
+		"phone_code": "687",
+		"flag": "flags/new-caledonia.png",
+		"capital_city": null
+	},
+	{
+		"name": "New Zealand",
+		"iso_alpha_2_code": "NZ",
+		"iso_alpha_3_code": "NZL",
+		"m49_code": "554",
+		"phone_code": "64",
+		"flag": "flags/new-zealand.png",
+		"capital_city": null
+	},
+	{
+		"name": "Nicaragua",
+		"iso_alpha_2_code": "NI",
+		"iso_alpha_3_code": "NIC",
+		"m49_code": "558",
+		"phone_code": "505",
+		"flag": "flags/nicaragua.png",
+		"capital_city": null
+	},
+	{
+		"name": "Niger",
+		"iso_alpha_2_code": "NE",
+		"iso_alpha_3_code": "NER",
+		"m49_code": "562",
+		"phone_code": "227",
+		"flag": "flags/niger.png",
+		"capital_city": null
+	},
+	{
+		"name": "Nigeria",
+		"iso_alpha_2_code": "NG",
+		"iso_alpha_3_code": "NGA",
+		"m49_code": "566",
+		"phone_code": "234",
+		"flag": "flags/nigeria.png",
+		"capital_city": null
+	},
+	{
+		"name": "Niue",
+		"iso_alpha_2_code": "NU",
+		"iso_alpha_3_code": "NIU",
+		"m49_code": "570",
+		"phone_code": "683",
+		"flag": "flags/niue.png",
+		"capital_city": null
+	},
+	{
+		"name": "Norfolk Island",
+		"iso_alpha_2_code": "NF",
+		"iso_alpha_3_code": "NFK",
+		"m49_code": "574",
+		"phone_code": "",
+		"flag": "flags/norfolk-island.png",
+		"capital_city": null
+	},
+	{
+		"name": "North Korea",
+		"iso_alpha_2_code": "KP",
+		"iso_alpha_3_code": "PRK",
+		"m49_code": "408",
+		"phone_code": "850",
+		"flag": "flags/north-korea.png",
+		"capital_city": null
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"iso_alpha_2_code": "MP",
+		"iso_alpha_3_code": "MNP",
+		"m49_code": "580",
+		"phone_code": "1-670",
+		"flag": "flags/northern-mariana-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Norway",
+		"iso_alpha_2_code": "NO",
+		"iso_alpha_3_code": "NOR",
+		"m49_code": "578",
+		"phone_code": "47",
+		"flag": "flags/norway.png",
+		"capital_city": null
+	},
+	{
+		"name": "Oman",
+		"iso_alpha_2_code": "OM",
+		"iso_alpha_3_code": "OMN",
+		"m49_code": "512",
+		"phone_code": "968",
+		"flag": "flags/oman.png",
+		"capital_city": null
+	},
+	{
+		"name": "Pakistan",
+		"iso_alpha_2_code": "PK",
+		"iso_alpha_3_code": "PAK",
+		"m49_code": "586",
+		"phone_code": "92",
+		"flag": "flags/pakistan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Palau",
+		"iso_alpha_2_code": "PW",
+		"iso_alpha_3_code": "PLW",
+		"m49_code": "585",
+		"phone_code": "680",
+		"flag": "flags/palau.png",
+		"capital_city": null
+	},
+	{
+		"name": "Palestinian Territory",
+		"iso_alpha_2_code": "PS",
+		"iso_alpha_3_code": "PSE",
+		"m49_code": "275",
+		"phone_code": "970",
+		"flag": "flags/palestinian-territory.png",
+		"capital_city": null
+	},
+	{
+		"name": "Panama",
+		"iso_alpha_2_code": "PA",
+		"iso_alpha_3_code": "PAN",
+		"m49_code": "591",
+		"phone_code": "507",
+		"flag": "flags/panama.png",
+		"capital_city": null
+	},
+	{
+		"name": "Papua New Guinea",
+		"iso_alpha_2_code": "PG",
+		"iso_alpha_3_code": "PNG",
+		"m49_code": "598",
+		"phone_code": "675",
+		"flag": "flags/papua-new-guinea.png",
+		"capital_city": null
+	},
+	{
+		"name": "Paraguay",
+		"iso_alpha_2_code": "PY",
+		"iso_alpha_3_code": "PRY",
+		"m49_code": "600",
+		"phone_code": "595",
+		"flag": "flags/paraguay.png",
+		"capital_city": null
+	},
+	{
+		"name": "Peru",
+		"iso_alpha_2_code": "PE",
+		"iso_alpha_3_code": "PER",
+		"m49_code": "604",
+		"phone_code": "51",
+		"flag": "flags/peru.png",
+		"capital_city": null
+	},
+	{
+		"name": "Philippines",
+		"iso_alpha_2_code": "PH",
+		"iso_alpha_3_code": "PHL",
+		"m49_code": "608",
+		"phone_code": "63",
+		"flag": "flags/philippines.png",
+		"capital_city": null
+	},
+	{
+		"name": "Pitcairn",
+		"iso_alpha_2_code": "PN",
+		"iso_alpha_3_code": "PCN",
+		"m49_code": "612",
+		"phone_code": "64",
+		"flag": "flags/pitcairn.png",
+		"capital_city": null
+	},
+	{
+		"name": "Poland",
+		"iso_alpha_2_code": "PL",
+		"iso_alpha_3_code": "POL",
+		"m49_code": "616",
+		"phone_code": "48",
+		"flag": "flags/poland.png",
+		"capital_city": null
+	},
+	{
+		"name": "Portugal",
+		"iso_alpha_2_code": "PT",
+		"iso_alpha_3_code": "PRT",
+		"m49_code": "620",
+		"phone_code": "351",
+		"flag": "flags/portugal.png",
+		"capital_city": null
+	},
+	{
+		"name": "Puerto Rico",
+		"iso_alpha_2_code": "PR",
+		"iso_alpha_3_code": "PRI",
+		"m49_code": "630",
+		"phone_code": "1-787",
+		"flag": "flags/puerto-rico.png",
+		"capital_city": null
+	},
+	{
+		"name": "Qatar",
+		"iso_alpha_2_code": "QA",
+		"iso_alpha_3_code": "QAT",
+		"m49_code": "634",
+		"phone_code": "974",
+		"flag": "flags/qatar.png",
+		"capital_city": null
+	},
+	{
+		"name": "Republic of the Congo",
+		"iso_alpha_2_code": "CG",
+		"iso_alpha_3_code": "COG",
+		"m49_code": "178",
+		"phone_code": "242",
+		"flag": "flags/republic-of-the-congo.png",
+		"capital_city": null
+	},
+	{
+		"name": "Réunion",
+		"iso_alpha_2_code": "RE",
+		"iso_alpha_3_code": "REU",
+		"m49_code": "638",
+		"phone_code": "262",
+		"flag": "flags/reunion.png",
+		"capital_city": null
+	},
+	{
+		"name": "Romania",
+		"iso_alpha_2_code": "RO",
+		"iso_alpha_3_code": "ROU",
+		"m49_code": "642",
+		"phone_code": "40",
+		"flag": "flags/romania.png",
+		"capital_city": null
+	},
+	{
+		"name": "Russian Federation",
+		"iso_alpha_2_code": "RU",
+		"iso_alpha_3_code": "RUS",
+		"m49_code": "643",
+		"phone_code": "7",
+		"flag": "flags/russian-federation.png",
+		"capital_city": null
+	},
+	{
+		"name": "Rwanda",
+		"iso_alpha_2_code": "RW",
+		"iso_alpha_3_code": "RWA",
+		"m49_code": "646",
+		"phone_code": "250",
+		"flag": "flags/rwanda.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint-Barthélemy",
+		"iso_alpha_2_code": "BL",
+		"iso_alpha_3_code": "BLM",
+		"m49_code": "652",
+		"phone_code": "590",
+		"flag": "flags/saint-barthelemy.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint Helena",
+		"iso_alpha_2_code": "SH",
+		"iso_alpha_3_code": "SHN",
+		"m49_code": "654",
+		"phone_code": "290",
+		"flag": "flags/saint-helena.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"iso_alpha_2_code": "KN",
+		"iso_alpha_3_code": "KNA",
+		"m49_code": "659",
+		"phone_code": "1-869",
+		"flag": "flags/saint-kitts-and-nevis.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint Lucia",
+		"iso_alpha_2_code": "LC",
+		"iso_alpha_3_code": "LCA",
+		"m49_code": "662",
+		"phone_code": "1-758",
+		"flag": "flags/saint-lucia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint-Martin (French part)",
+		"iso_alpha_2_code": "MF",
+		"iso_alpha_3_code": "MAF",
+		"m49_code": "663",
+		"phone_code": "590",
+		"flag": "flags/saint-martin--french-part-.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"iso_alpha_2_code": "PM",
+		"iso_alpha_3_code": "SPM",
+		"m49_code": "666",
+		"phone_code": "508",
+		"flag": "flags/saint-pierre-and-miquelon.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saint Vincent and Grenadines",
+		"iso_alpha_2_code": "VC",
+		"iso_alpha_3_code": "VCT",
+		"m49_code": "670",
+		"phone_code": "1-784",
+		"flag": "flags/saint-vincent-and-grenadines.png",
+		"capital_city": null
+	},
+	{
+		"name": "Samoa",
+		"iso_alpha_2_code": "WS",
+		"iso_alpha_3_code": "WSM",
+		"m49_code": "882",
+		"phone_code": "685",
+		"flag": "flags/samoa.png",
+		"capital_city": null
+	},
+	{
+		"name": "San Marino",
+		"iso_alpha_2_code": "SM",
+		"iso_alpha_3_code": "SMR",
+		"m49_code": "674",
+		"phone_code": "378",
+		"flag": "flags/san-marino.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sao Tome and Principe",
+		"iso_alpha_2_code": "ST",
+		"iso_alpha_3_code": "STP",
+		"m49_code": "678",
+		"phone_code": "239",
+		"flag": "flags/sao-tome-and-principe.png",
+		"capital_city": null
+	},
+	{
+		"name": "Saudi Arabia",
+		"iso_alpha_2_code": "SA",
+		"iso_alpha_3_code": "SAU",
+		"m49_code": "682",
+		"phone_code": "966",
+		"flag": "flags/saudi-arabia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Senegal",
+		"iso_alpha_2_code": "SN",
+		"iso_alpha_3_code": "SEN",
+		"m49_code": "686",
+		"phone_code": "221",
+		"flag": "flags/senegal.png",
+		"capital_city": null
+	},
+	{
+		"name": "Serbia",
+		"iso_alpha_2_code": "RS",
+		"iso_alpha_3_code": "SRB",
+		"m49_code": "688",
+		"phone_code": "381",
+		"flag": "flags/serbia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Seychelles",
+		"iso_alpha_2_code": "SC",
+		"iso_alpha_3_code": "SYC",
+		"m49_code": "690",
+		"phone_code": "248",
+		"flag": "flags/seychelles.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sierra Leone",
+		"iso_alpha_2_code": "SL",
+		"iso_alpha_3_code": "SLE",
+		"m49_code": "694",
+		"phone_code": "232",
+		"flag": "flags/sierra-leone.png",
+		"capital_city": null
+	},
+	{
+		"name": "Singapore",
+		"iso_alpha_2_code": "SG",
+		"iso_alpha_3_code": "SGP",
+		"m49_code": "702",
+		"phone_code": "65",
+		"flag": "flags/singapore.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sint Maarten",
+		"iso_alpha_2_code": "SX",
+		"iso_alpha_3_code": "SXM",
+		"m49_code": "",
+		"phone_code": "1-721",
+		"flag": "flags/sint-maarten.png",
+		"capital_city": null
+	},
+	{
+		"name": "Slovakia",
+		"iso_alpha_2_code": "SK",
+		"iso_alpha_3_code": "SVK",
+		"m49_code": "703",
+		"phone_code": "421",
+		"flag": "flags/slovakia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Slovenia",
+		"iso_alpha_2_code": "SI",
+		"iso_alpha_3_code": "SVN",
+		"m49_code": "705",
+		"phone_code": "386",
+		"flag": "flags/slovenia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Solomon Islands",
+		"iso_alpha_2_code": "SB",
+		"iso_alpha_3_code": "SLB",
+		"m49_code": "090",
+		"phone_code": "677",
+		"flag": "flags/solomon-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Somalia",
+		"iso_alpha_2_code": "SO",
+		"iso_alpha_3_code": "SOM",
+		"m49_code": "706",
+		"phone_code": "252",
+		"flag": "flags/somalia.png",
+		"capital_city": null
+	},
+	{
+		"name": "South Africa",
+		"iso_alpha_2_code": "ZA",
+		"iso_alpha_3_code": "ZAF",
+		"m49_code": "710",
+		"phone_code": "27",
+		"flag": "flags/south-africa.png",
+		"capital_city": null
+	},
+	{
+		"name": "South Georgia and the South Sandwich Islands",
+		"iso_alpha_2_code": "GS",
+		"iso_alpha_3_code": "SGS",
+		"m49_code": "239",
+		"phone_code": "",
+		"flag": "flags/south-georgia-and-the-south-sandwich-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "South Korea",
+		"iso_alpha_2_code": "KR",
+		"iso_alpha_3_code": "KOR",
+		"m49_code": "410",
+		"phone_code": "82",
+		"flag": "flags/south-korea.png",
+		"capital_city": null
+	},
+	{
+		"name": "South Sudan",
+		"iso_alpha_2_code": "SS",
+		"iso_alpha_3_code": "SSD",
+		"m49_code": "728",
+		"phone_code": "211",
+		"flag": "flags/south-sudan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Spain",
+		"iso_alpha_2_code": "ES",
+		"iso_alpha_3_code": "ESP",
+		"m49_code": "724",
+		"phone_code": "34",
+		"flag": "flags/spain.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sri Lanka",
+		"iso_alpha_2_code": "LK",
+		"iso_alpha_3_code": "LKA",
+		"m49_code": "144",
+		"phone_code": "94",
+		"flag": "flags/sri-lanka.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sudan",
+		"iso_alpha_2_code": "SD",
+		"iso_alpha_3_code": "SDN",
+		"m49_code": "736",
+		"phone_code": "249",
+		"flag": "flags/sudan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Suriname",
+		"iso_alpha_2_code": "SR",
+		"iso_alpha_3_code": "SUR",
+		"m49_code": "740",
+		"phone_code": "597",
+		"flag": "flags/suriname.png",
+		"capital_city": null
+	},
+	{
+		"name": "Svalbard and Jan Mayen Islands",
+		"iso_alpha_2_code": "SJ",
+		"iso_alpha_3_code": "SJM",
+		"m49_code": "744",
+		"phone_code": "47",
+		"flag": "flags/svalbard-and-jan-mayen-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Swaziland",
+		"iso_alpha_2_code": "SZ",
+		"iso_alpha_3_code": "SWZ",
+		"m49_code": "748",
+		"phone_code": "268",
+		"flag": "flags/swaziland.png",
+		"capital_city": null
+	},
+	{
+		"name": "Sweden",
+		"iso_alpha_2_code": "SE",
+		"iso_alpha_3_code": "SWE",
+		"m49_code": "752",
+		"phone_code": "46",
+		"flag": "flags/sweden.png",
+		"capital_city": null
+	},
+	{
+		"name": "Switzerland",
+		"iso_alpha_2_code": "CH",
+		"iso_alpha_3_code": "CHE",
+		"m49_code": "756",
+		"phone_code": "41",
+		"flag": "flags/switzerland.png",
+		"capital_city": null
+	},
+	{
+		"name": "Syrian Arab Republic (Syria)",
+		"iso_alpha_2_code": "SY",
+		"iso_alpha_3_code": "SYR",
+		"m49_code": "760",
+		"phone_code": "963",
+		"flag": "flags/syrian-arab-republic--syria-.png",
+		"capital_city": null
+	},
+	{
+		"name": "Taiwan, Republic of China",
+		"iso_alpha_2_code": "TW",
+		"iso_alpha_3_code": "TWN",
+		"m49_code": "158",
+		"phone_code": "886",
+		"flag": "flags/taiwan--republic-of-china.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tajikistan",
+		"iso_alpha_2_code": "TJ",
+		"iso_alpha_3_code": "TJK",
+		"m49_code": "762",
+		"phone_code": "992",
+		"flag": "flags/tajikistan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tanzania, United Republic of",
+		"iso_alpha_2_code": "TZ",
+		"iso_alpha_3_code": "TZA",
+		"m49_code": "834",
+		"phone_code": "255",
+		"flag": "flags/tanzania--united-republic-of.png",
+		"capital_city": null
+	},
+	{
+		"name": "Thailand",
+		"iso_alpha_2_code": "TH",
+		"iso_alpha_3_code": "THA",
+		"m49_code": "764",
+		"phone_code": "66",
+		"flag": "flags/thailand.png",
+		"capital_city": null
+	},
+	{
+		"name": "Timor-Leste",
+		"iso_alpha_2_code": "TL",
+		"iso_alpha_3_code": "TLS",
+		"m49_code": "626",
+		"phone_code": "670",
+		"flag": "flags/timor-leste.png",
+		"capital_city": null
+	},
+	{
+		"name": "Togo",
+		"iso_alpha_2_code": "TG",
+		"iso_alpha_3_code": "TGO",
+		"m49_code": "768",
+		"phone_code": "228",
+		"flag": "flags/togo.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tokelau",
+		"iso_alpha_2_code": "TK",
+		"iso_alpha_3_code": "TKL",
+		"m49_code": "772",
+		"phone_code": "690",
+		"flag": "flags/tokelau.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tonga",
+		"iso_alpha_2_code": "TO",
+		"iso_alpha_3_code": "TON",
+		"m49_code": "776",
+		"phone_code": "676",
+		"flag": "flags/tonga.png",
+		"capital_city": null
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"iso_alpha_2_code": "TT",
+		"iso_alpha_3_code": "TTO",
+		"m49_code": "780",
+		"phone_code": "1-868",
+		"flag": "flags/trinidad-and-tobago.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tunisia",
+		"iso_alpha_2_code": "TN",
+		"iso_alpha_3_code": "TUN",
+		"m49_code": "788",
+		"phone_code": "216",
+		"flag": "flags/tunisia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Turkey",
+		"iso_alpha_2_code": "TR",
+		"iso_alpha_3_code": "TUR",
+		"m49_code": "792",
+		"phone_code": "90",
+		"flag": "flags/turkey.png",
+		"capital_city": null
+	},
+	{
+		"name": "Turkmenistan",
+		"iso_alpha_2_code": "TM",
+		"iso_alpha_3_code": "TKM",
+		"m49_code": "795",
+		"phone_code": "993",
+		"flag": "flags/turkmenistan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"iso_alpha_2_code": "TC",
+		"iso_alpha_3_code": "TCA",
+		"m49_code": "796",
+		"phone_code": "1-649",
+		"flag": "flags/turks-and-caicos-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Tuvalu",
+		"iso_alpha_2_code": "TV",
+		"iso_alpha_3_code": "TUV",
+		"m49_code": "798",
+		"phone_code": "688",
+		"flag": "flags/tuvalu.png",
+		"capital_city": null
+	},
+	{
+		"name": "Uganda",
+		"iso_alpha_2_code": "UG",
+		"iso_alpha_3_code": "UGA",
+		"m49_code": "800",
+		"phone_code": "256",
+		"flag": "flags/uganda.png",
+		"capital_city": null
+	},
+	{
+		"name": "Ukraine",
+		"iso_alpha_2_code": "UA",
+		"iso_alpha_3_code": "UKR",
+		"m49_code": "804",
+		"phone_code": "380",
+		"flag": "flags/ukraine.png",
+		"capital_city": null
+	},
+	{
+		"name": "United Arab Emirates",
+		"iso_alpha_2_code": "AE",
+		"iso_alpha_3_code": "ARE",
+		"m49_code": "784",
+		"phone_code": "971",
+		"flag": "flags/united-arab-emirates.png",
+		"capital_city": null
+	},
+	{
+		"name": "United Kingdom",
+		"iso_alpha_2_code": "GB",
+		"iso_alpha_3_code": "GBR",
+		"m49_code": "826",
+		"phone_code": "44",
+		"flag": "flags/united-kingdom.png",
+		"capital_city": null
+	},
+	{
+		"name": "United States of America",
+		"iso_alpha_2_code": "US",
+		"iso_alpha_3_code": "USA",
+		"m49_code": "840",
+		"phone_code": "1",
+		"flag": "flags/united-states-of-america.png",
+		"capital_city": null
+	},
+	{
+		"name": "US Minor Outlying Islands",
+		"iso_alpha_2_code": "UM",
+		"iso_alpha_3_code": "UMI",
+		"m49_code": "581",
+		"phone_code": "",
+		"flag": "flags/us-minor-outlying-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Uruguay",
+		"iso_alpha_2_code": "UY",
+		"iso_alpha_3_code": "URY",
+		"m49_code": "858",
+		"phone_code": "598",
+		"flag": "flags/uruguay.png",
+		"capital_city": null
+	},
+	{
+		"name": "Uzbekistan",
+		"iso_alpha_2_code": "UZ",
+		"iso_alpha_3_code": "UZB",
+		"m49_code": "860",
+		"phone_code": "998",
+		"flag": "flags/uzbekistan.png",
+		"capital_city": null
+	},
+	{
+		"name": "Vanuatu",
+		"iso_alpha_2_code": "VU",
+		"iso_alpha_3_code": "VUT",
+		"m49_code": "548",
+		"phone_code": "678",
+		"flag": "flags/vanuatu.png",
+		"capital_city": null
+	},
+	{
+		"name": "Venezuela (Bolivarian Republic)",
+		"iso_alpha_2_code": "VE",
+		"iso_alpha_3_code": "VEN",
+		"m49_code": "862",
+		"phone_code": "58",
+		"flag": "flags/venezuela--bolivarian-republic-.png",
+		"capital_city": null
+	},
+	{
+		"name": "Vietnam",
+		"iso_alpha_2_code": "VN",
+		"iso_alpha_3_code": "VNM",
+		"m49_code": "704",
+		"phone_code": "84",
+		"flag": "flags/vietnam.png",
+		"capital_city": null
+	},
+	{
+		"name": "Virgin Islands, US",
+		"iso_alpha_2_code": "VI",
+		"iso_alpha_3_code": "VIR",
+		"m49_code": "850",
+		"phone_code": "1-340",
+		"flag": "flags/virgin-islands--us.png",
+		"capital_city": null
+	},
+	{
+		"name": "Wallis and Futuna Islands",
+		"iso_alpha_2_code": "WF",
+		"iso_alpha_3_code": "WLF",
+		"m49_code": "876",
+		"phone_code": "681",
+		"flag": "flags/wallis-and-futuna-islands.png",
+		"capital_city": null
+	},
+	{
+		"name": "Western Sahara",
+		"iso_alpha_2_code": "EH",
+		"iso_alpha_3_code": "ESH",
+		"m49_code": "732",
+		"phone_code": "212",
+		"flag": "flags/western-sahara.png",
+		"capital_city": null
+	},
+	{
+		"name": "Yemen",
+		"iso_alpha_2_code": "YE",
+		"iso_alpha_3_code": "YEM",
+		"m49_code": "887",
+		"phone_code": "967",
+		"flag": "flags/yemen.png",
+		"capital_city": null
+	},
+	{
+		"name": "Zambia",
+		"iso_alpha_2_code": "ZM",
+		"iso_alpha_3_code": "ZMB",
+		"m49_code": "894",
+		"phone_code": "260",
+		"flag": "flags/zambia.png",
+		"capital_city": null
+	},
+	{
+		"name": "Zimbabwe",
+		"iso_alpha_2_code": "ZW",
+		"iso_alpha_3_code": "ZWE",
+		"m49_code": "716",
+		"phone_code": "263",
+		"flag": "flags/zimbabwe.png",
+		"capital_city": null
+	}
+]
