@@ -1,0 +1,3086 @@
+[
+	{
+		"name": "Aceh Selatan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Tenggara",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Timur",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Tengah",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Barat",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Besar",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pidie",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Utara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Simeulue",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Singkil",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bireuen",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Barat Daya",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gayo Lues",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Jaya",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nagan Raya",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Aceh Tamiang",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bener Meriah",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pidie Jaya",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banda Aceh",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sabang",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Lhokseumawe",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Langsa",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Subulussalam",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Jembrana",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tabanan",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Badung",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gianyar",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Klungkung",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bangli",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Karangasem",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buleleng",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Denpasar",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pandeglang",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lebak",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tangerang",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Serang",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tangerang",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Cilegon",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Serang",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tangerang Selatan",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bengkulu Selatan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Rejang Lebong",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bengkulu Utara",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kaur",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Seluma",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Muko Muko",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lebong",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepahiang",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bengkulu Tengah",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tangerang Selatan",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kulon Progo",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bantul",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gunung Kidul",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sleman",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Yogyakarta",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kepulauan Seribu",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jakarta Pusat",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Jakarta Utara",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Jakarta Barat",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Jakarta Selatan",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Jakarta Timur",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Gorontalo",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Boalemo",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bone Bolango",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pohuwato",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gorontalo Utara",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gorontalo",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kerinci",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Merangin",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sarolangun",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Batang Hari",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Muaro Jambi",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tanjung Jabung Barat",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tanjung Jabung Timur",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bungo",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tebo",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jambi",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sungaipenuh",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bogor",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sukabumi",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Cianjur",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bandung",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Garut",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tasikmalaya",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ciamis",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kuningan",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Cirebon",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Majalengka",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumedang",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "\tIndramayu",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Subang",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Purwakarta",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Karawang",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bekasi",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bandung Barat",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pangandaran",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bogor",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sukabumi",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bandung",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Cirebon",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bekasi",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Depok",
+		"administration_code": "76",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Cimahi",
+		"administration_code": "77",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tasikmalaya",
+		"administration_code": "78",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Banjar",
+		"administration_code": "79",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Cilacap",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banyumas",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Purbalingga",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banjarnegara",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kebumen",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Purworejo",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Wonosobo",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Magelang",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Boyolali",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Klaten",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sukoharjo",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Wonogiri",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Karanganyar",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sragen",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Grobogan",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Blora",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Rembang",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pati",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kudus",
+		"administration_code": "19",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jepara",
+		"administration_code": "20",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Demak",
+		"administration_code": "21",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Semarang",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Temanggung",
+		"administration_code": "23",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kendal",
+		"administration_code": "24",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Batang",
+		"administration_code": "25",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pekalongan",
+		"administration_code": "26",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pemalang",
+		"administration_code": "27",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tegal",
+		"administration_code": "28",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Brebes",
+		"administration_code": "29",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Magelang",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Surakarta",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Salatiga",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Semarang",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pekalongan",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tegal",
+		"administration_code": "76",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pacitan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ponorogo",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Trenggalek",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tulungagung",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Blitar",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kediri",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Malang",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lumajang",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jember",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banyuwangi",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bondowoso",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Situbondo",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Probolinggo",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pasuruan",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sidoarjo",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mojokerto",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jombang",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nganjuk",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Madiun",
+		"administration_code": "19",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Magetan",
+		"administration_code": "20",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ngawi",
+		"administration_code": "21",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bojonegoro",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tuban",
+		"administration_code": "23",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lamongan",
+		"administration_code": "24",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gresik",
+		"administration_code": "25",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bangkalan",
+		"administration_code": "26",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sampang",
+		"administration_code": "27",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pamekasan",
+		"administration_code": "28",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumenep",
+		"administration_code": "29",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kediri",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Blitar",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Malang",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Probolinggo",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pasuruan",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Mojokerto",
+		"administration_code": "76",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Madiun",
+		"administration_code": "77",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Surabaya",
+		"administration_code": "78",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Batu",
+		"administration_code": "79",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sambas",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mempawah",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sanggau",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ketapang",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sintang",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kapuas Hulu",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bengkayang",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Landak",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sekadau",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Melawi",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kayong Utara",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kubu Raya",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pontianak",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Singkawang",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tanah Laut",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kotabaru",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banjar",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Barito Kuala",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tapin",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Hulu Sungai Selatan",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Hulu Sungai Tengah",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Hulu Sungai Utara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tabalong",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tanah Bumbu",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Balangan",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banjarmasin",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Banjarbaru",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kotawaringin Barat",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kotawaringin Timur",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kapuas",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Barito Selatan",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Barito Utara",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Katingan",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Seruyan",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sukamara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lamandau",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gunung Mas",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pulang Pisau",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Murung Raya",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Barito Timur",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Palangka Raya",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Paser",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kutai Kartanegara",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Berau",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kutai Barat",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kutai Timur",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Penajam Paser Utara",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mahakam Ulu",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Balikpapan",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Samarinda",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bontang",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bulungan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Malinau",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nunukan",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tana Tidung",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tarakan",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bangka",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Belitung",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bangka Selatan",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bangka Tengah",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bangka Barat",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Belitung Timur",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pangkal Pinang",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bintan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Karimun",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Natuna",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lingga",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Anambas",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Batam",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tanjung Pinang",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Lampung Selatan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lampung Tengah",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lampung Utara",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lampung Barat",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tulang Bawang",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tanggamus",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lampung Timur",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Way Kanan",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pesawaran",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pringsewu",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mesuji",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tulang Bawang Barat",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pesisir Barat",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bandar Lampung",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Metro",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Maluku Tengah",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Maluku Tenggara",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buru",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Seram Bagian Timur",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Seram Bagian Barat",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Aru",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Maluku Barat Daya",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buru Selatan",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ambon",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tual",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Halmahera Barat",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Halmahera Tengah",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Halmahera Utara",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Halmahera Selatan",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Sula",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Halmahera Timur",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pulau Morotai",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pulau Taliabu",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ternate",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tidore Kepulauan",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Lombok Barat",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lombok Tengah",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lombok Timur",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumbawa",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Dompu",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bima",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumbawa Barat",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lombok Utara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mataram",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bima",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kupang",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Timor Tengah Selatan",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Timor Tengah Utara",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Belu",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Alor",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Flores Timur",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sikka",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ende",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ngada",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manggarai",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumba Timur",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumba Barat",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lembata",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Rote Ndao",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manggarai Barat",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nagekeo",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumba Tengah",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sumba Barat Daya",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manggarai Timur",
+		"administration_code": "19",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sabu Raijua",
+		"administration_code": "20",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Malaka",
+		"administration_code": "21",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kupang",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Merauke",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jayawijaya",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jayapura",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nabire",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Yapen",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Biak Numfor",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Puncak Jaya",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Paniai",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mimika",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sarmi",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Keerom",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pegunungan Bintang",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Yahukimo",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tolikara",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Waropen",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Boven Digoel",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mappi",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Asmat",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Supiori",
+		"administration_code": "19",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mamberamo Raya",
+		"administration_code": "20",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mamberamo Tengah",
+		"administration_code": "21",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Yalimo",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lanny Jaya",
+		"administration_code": "23",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nduga",
+		"administration_code": "24",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Puncak",
+		"administration_code": "25",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Dogiyai",
+		"administration_code": "26",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Intan Jaya",
+		"administration_code": "27",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Deiyai",
+		"administration_code": "28",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jayapura",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sorong",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manokwari",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Fakfak",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sorong Selatan",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Raja Ampat",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Teluk Bintuni",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Teluk Wondama",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kaimana",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tambrauw",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Maybrat",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manokwari Selatan",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pegunungan Arfak",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sorong",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kampar",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Indragiri Hulu",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bengkalis",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Indragiri Hilir",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pelalawan",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Rokan Hulu",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Rokan Hilir",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Siak",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kuantan Singingi",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Meranti",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pekanbaru",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Dumai",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pasangkayu (Mamuju Utara)",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mamuju",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mamasa",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Polewali Mandar",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Majene",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mamuju Tengah",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Selayar",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bulukumba",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bantaeng",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Jeneponto",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Takalar",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Gowa",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sinjai",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bone",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Maros",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pangkajene Kepulauan",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Barru",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Soppeng",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Wajo",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sidenreng Rappang",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pinrang",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Enrekang",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Luwu",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tana Toraja",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Luwu Utara",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Luwu Timur",
+		"administration_code": "24",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Toraja Utara",
+		"administration_code": "26",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Makassar",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Parepare",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Palopo",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Banggai",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Poso",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Donggala",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Toli-Toli",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buol",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Morowali",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banggai Kepulauan",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Parigi Moutong",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tojo Una-Una",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sigi",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banggai Laut",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Morowali Utara",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Palu",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kolaka",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Konawe",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Muna",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buton",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Konawe Selatan",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bombana",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Wakatobi",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kolaka Utara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Konawe Utara",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buton Utara",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kolaka Timur",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Konawe Kepulauan",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Muna Barat",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buton Tengah",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Buton Selatan",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kendari",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bau-Bau",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bolaang Mongondow",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Minahasa",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Sangihe",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Talaud",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Minahasa Selatan",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Minahasa Utara",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Minahasa Tenggara",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bolaang Mongondow Utara",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bolaang Mongondow Timur",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Bolaang Mongondow Selatan",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Manado",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bitung",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tomohon",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Kotamobagu",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pesisir Selatan",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Solok",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Sijunjung",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tanah Datar",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Padang Pariaman",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Agam",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lima Puluh Kota",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pasaman",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Kepulauan Mentawai",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Dharmasraya",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Solok Selatan",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pasaman Barat",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Padang",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Solok",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sawah Lunto",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Padang Panjang",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Bukittinggi",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Payakumbuh",
+		"administration_code": "76",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pariaman",
+		"administration_code": "77",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Ogan Komering Ulu",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ogan Komering Ilir",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Muara Enim",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Lahat",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Musi Rawas",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Musi Banyuasin",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Banyuasin",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ogan Komering Ulu Timur",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ogan Komering Ulu Selatan",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Ogan Ilir",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Empat Lawang",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Penukal Abab Lematang Ilir",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Musi Rawas Utara",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Palembang",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pagar Alam",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Lubuk Linggau",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Prabumulih",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tapanuli Tengah",
+		"administration_code": "01",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tapanuli Utara",
+		"administration_code": "02",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Tapanuli Selatan",
+		"administration_code": "03",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nias",
+		"administration_code": "04",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Langkat",
+		"administration_code": "05",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Karo",
+		"administration_code": "06",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Deli Serdang",
+		"administration_code": "07",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Simalungun",
+		"administration_code": "08",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Asahan",
+		"administration_code": "09",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Labuhanbatu",
+		"administration_code": "10",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Dairi",
+		"administration_code": "11",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Toba Samosir",
+		"administration_code": "12",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Mandailing Natal",
+		"administration_code": "13",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nias Selatan",
+		"administration_code": "14",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Pakpak Bharat",
+		"administration_code": "15",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Humbang Hasundutan",
+		"administration_code": "16",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Samosir",
+		"administration_code": "17",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Serdang Bedagai",
+		"administration_code": "18",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Batu Bara",
+		"administration_code": "19",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Padang Lawas Utara",
+		"administration_code": "20",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Padang Lawas",
+		"administration_code": "21",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Labuhanbatu Selatan",
+		"administration_code": "22",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Labuhanbatu Utara",
+		"administration_code": "23",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nias Utara",
+		"administration_code": "24",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Nias Barat",
+		"administration_code": "25",
+		"postcode": null,
+		"area_level": "Kabupaten"
+	},
+	{
+		"name": "Medan",
+		"administration_code": "71",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Pematang Siantar",
+		"administration_code": "72",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Sibolga",
+		"administration_code": "73",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tanjung Balai",
+		"administration_code": "74",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Binjai",
+		"administration_code": "75",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Tebing Tinggi",
+		"administration_code": "76",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Padang Sidempuan",
+		"administration_code": "77",
+		"postcode": null,
+		"area_level": "Kota"
+	},
+	{
+		"name": "Gunungsitoli",
+		"administration_code": "78",
+		"postcode": null,
+		"area_level": "Kota"
+	}
+]
