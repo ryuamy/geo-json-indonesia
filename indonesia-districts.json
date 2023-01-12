@@ -1,0 +1,2448 @@
+[
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"name": "Negara",
+		"postcode": "82212 - 82218",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"name": "Mendoyo",
+		"postcode": "82261",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"name": "Pekutatan",
+		"postcode": "82262",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"name": "Melaya",
+		"postcode": "82252",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"name": "Jembrana",
+		"postcode": "82211 - 82218",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Selemadeg",
+		"postcode": "82164",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Salamadeg Timur (Salemadeg Timur)",
+		"postcode": "82160",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Salemadeg Barat",
+		"postcode": "82162",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Kerambitan",
+		"postcode": "82161",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Tabanan",
+		"postcode": "82111 - 82115",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Kediri",
+		"postcode": "82121 - 82123",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Marga",
+		"postcode": "82181",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Penebel",
+		"postcode": "82152",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Baturiti",
+		"postcode": "82191",
+		"administration_code": "09"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"name": "Pupuan",
+		"postcode": "82163",
+		"administration_code": "10"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Kuta",
+		"postcode": "80361",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Mengwi",
+		"postcode": "80351",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Abiansemal",
+		"postcode": "80352",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Petang",
+		"postcode": "80353",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Kuta Selatan",
+		"postcode": "80362",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"name": "Kuta Utara",
+		"postcode": "80363",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Sukawati",
+		"postcode": "80582",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Belah Batuh (Blahbatuh)",
+		"postcode": "80581",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Gianyar",
+		"postcode": "80511 - 80515",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Tampaksiring (Tampak Siring)",
+		"postcode": "80552",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Ubud",
+		"postcode": "80571",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Tegallalang",
+		"postcode": "80561",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"name": "Payangan",
+		"postcode": "80572",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"name": "Nusa Penida (Nusapenida)",
+		"postcode": "80771",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"name": "Banjarangkan",
+		"postcode": "80752",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"name": "Klungkung",
+		"postcode": "80711 - 80716",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"name": "Dawan",
+		"postcode": "80761",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"name": "Susut",
+		"postcode": "80661",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"name": "Bangli",
+		"postcode": "80611 - 80614",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"name": "Tembuku",
+		"postcode": "80671",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"name": "Kintamani",
+		"postcode": "80652",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Rendang",
+		"postcode": "80863",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Sidemen",
+		"postcode": "80864",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Manggis",
+		"postcode": "80871",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Karangasem",
+		"postcode": "80811 - 80813",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Abang",
+		"postcode": "80852",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Bebandem",
+		"postcode": "80861",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Selat",
+		"postcode": "80862",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"name": "Kubu",
+		"postcode": "80853",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Gerokgak",
+		"postcode": "81155",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Seririt",
+		"postcode": "81153",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Busung biu (Busungbiu)",
+		"postcode": "81154",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Banjar",
+		"postcode": "81152",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Sukasada",
+		"postcode": "81161",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Buleleng",
+		"postcode": "81111 - 81119",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Sawan",
+		"postcode": "81171",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Kubutambahan",
+		"postcode": "81172",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"name": "Tejakula",
+		"postcode": "81173",
+		"administration_code": "09"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"name": "Denpasar Selatan",
+		"postcode": "80221 - 80229",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"name": "Denpasar Timur",
+		"postcode": "80232 - 80239",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"name": "Denpasar Barat",
+		"postcode": "80112 - 80119",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"name": "Denpasar Utara",
+		"postcode": "80111 - 80239",
+		"administration_code": "04"
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Bakongan",
+		"postcode": "23773",
+		"administration_code": "01"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Kluet Utara",
+		"postcode": "23771",
+		"administration_code": "02"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Kluet Selatan",
+		"postcode": "23772",
+		"administration_code": "03"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Labuhan Haji",
+		"postcode": "23761",
+		"administration_code": "04"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Meukek",
+		"postcode": "23754",
+		"administration_code": "05"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Samadua",
+		"postcode": "23752",
+		"administration_code": "06"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Sawang",
+		"postcode": "23753",
+		"administration_code": "07"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Tapaktuan",
+		"postcode": "23711 - 23718",
+		"administration_code": "08"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Trumon",
+		"postcode": "23774",
+		"administration_code": "09"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Pasi Raja",
+		"postcode": "23755",
+		"administration_code": "10"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Labuhan Haji Timur",
+		"postcode": "23758",
+		"administration_code": "11"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Labuhan Haji Barat",
+		"postcode": "23757",
+		"administration_code": "12"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Kluet Tengah",
+		"postcode": "23770",
+		"administration_code": "13"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Kluet Timur",
+		"postcode": "23779",
+		"administration_code": "14"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Bakongan Timur",
+		"postcode": "23777",
+		"administration_code": "15"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Trumon Timur",
+		"postcode": "23776",
+		"administration_code": "16"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Kota Bahagia",
+		"postcode": "23778",
+		"administration_code": "17"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Selatan",
+		"name": "Trumon Tengah",
+		"postcode": "23775",
+		"administration_code": "18"
+	},
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Lawe Alas",
+        "postcode": "24661",
+        "administration_code": "01"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Lawe Sigala Gala",
+        "postcode": "24676",
+        "administration_code": "02"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Bambel",
+        "postcode": "24672",
+        "administration_code": "03"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Babussalam",
+        "postcode": "24664",
+        "administration_code": "04"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Badar",
+        "postcode": "24666",
+        "administration_code": "05"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Babul Makmur",
+        "postcode": "24673",
+        "administration_code": "06"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Darul Hasanah",
+        "postcode": "24663",
+        "administration_code": "07"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Lawe Bulan",
+        "postcode": "24665",
+        "administration_code": "08"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Bukit Tusam",
+        "postcode": "24671",
+        "administration_code": "09"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Semadam",
+        "postcode": "24678",
+        "administration_code": "10"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Babul Rahmah",
+        "postcode": "24675",
+        "administration_code": "11"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Ketambe",
+        "postcode": "24662",
+        "administration_code": "12"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Deleng Pokhkisen (Deleng Pokhisen)",
+        "postcode": "24660",
+        "administration_code": "13"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Lawe Sumur",
+        "postcode": "24670",
+        "administration_code": "14"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Tanoh Alas (Tanah Alas)",
+        "postcode": "24674",
+        "administration_code": "15"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tenggara",
+        "name": "Leuser",
+        "postcode": "24677",
+        "administration_code": "16"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Darul Aman",
+        "postcode": "24455",
+        "administration_code": "01"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Julok",
+        "postcode": "24459",
+        "administration_code": "02"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Idi Rayeuk",
+        "postcode": "24442",
+        "administration_code": "03"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Birem Bayeun",
+        "postcode": "24452",
+        "administration_code": "04"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Serbajadi",
+        "postcode": "24460",
+        "administration_code": "05"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Nurussalam",
+        "postcode": "24467",
+        "administration_code": "06"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Peureulak",
+        "postcode": "24453",
+        "administration_code": "07"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Rantau Selamat",
+        "postcode": "24451",
+        "administration_code": "08"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Simpang Ulim",
+        "postcode": "24465",
+        "administration_code": "09"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Rantau Peureulak (Ranto Peureulak)",
+        "postcode": "24441",
+        "administration_code": "10"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Pante Bidari",
+        "postcode": "24463",
+        "administration_code": "11"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Madat",
+        "postcode": "24462",
+        "administration_code": "12"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Indra Makmu (Indra Makmur)",
+        "postcode": "24457",
+        "administration_code": "13"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Idi Tunong",
+        "postcode": "24443",
+        "administration_code": "14"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Banda Alam",
+        "postcode": "24458",
+        "administration_code": "15"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Peudawa",
+        "postcode": "24469",
+        "administration_code": "16"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Peureulak Timur",
+        "postcode": "24440",
+        "administration_code": "17"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Peureulak Barat",
+        "postcode": "24450",
+        "administration_code": "18"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Sungai Raya",
+        "postcode": "24466",
+        "administration_code": "19"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Simpang Jernih",
+        "postcode": "24464",
+        "administration_code": "20"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Darul Iksan (Ihsan)",
+        "postcode": "24468",
+        "administration_code": "21"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Darul Falah",
+        "postcode": "24454",
+        "administration_code": "22"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Idi Timur",
+        "postcode": "24456",
+        "administration_code": "23"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Timur",
+        "name": "Peunaron",
+        "postcode": "24461",
+        "administration_code": "24"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Linge",
+        "postcode": "24565",
+        "administration_code": "01"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Silih Nara",
+        "postcode": "24569",
+        "administration_code": "02"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Bebesen",
+        "postcode": "24552",
+        "administration_code": "03"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Pegasing",
+        "postcode": "24560",
+        "administration_code": "07"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Bintang",
+        "postcode": "24571",
+        "administration_code": "08"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Ketol",
+        "postcode": "24566",
+        "administration_code": "10"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kebayakan",
+        "postcode": "24517 - 24519",
+        "administration_code": "11"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kute Panang",
+        "postcode": "24568",
+        "administration_code": "12"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Celala",
+        "postcode": "24562",
+        "administration_code": "13"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Laut Tawar (Lut Tawar)",
+        "postcode": "24511 - 24516",
+        "administration_code": "17"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Atu Lintang",
+        "postcode": "24563",
+        "administration_code": "18"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Jagong Jeget",
+        "postcode": "24564",
+        "administration_code": "19"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Bies",
+        "postcode": "24561",
+        "administration_code": "20"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Rusip Antara",
+        "postcode": "24567",
+        "administration_code": "21"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Johan Pahwalan (Johan Pahlawan)",
+        "postcode": "23617 - 23618",
+        "administration_code": "01"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kaway XVI",
+        "postcode": "23681",
+        "administration_code": "02"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Sungai Mas",
+        "postcode": "23685",
+        "administration_code": "03"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Woyla",
+        "postcode": "23654",
+        "administration_code": "04"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Samatiga",
+        "postcode": "23650",
+        "administration_code": "05"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Bubon",
+        "postcode": "23651",
+        "administration_code": "06"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Arongan Lambalek",
+        "postcode": "23652",
+        "administration_code": "07"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Pante Ceureumen (Pantai Ceuremen)",
+        "postcode": "23680",
+        "administration_code": "08"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Meureubo",
+        "postcode": "23615",
+        "administration_code": "09"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Woyla Barat",
+        "postcode": "23682",
+        "administration_code": "10"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Woyla Timur",
+        "postcode": "23683",
+        "administration_code": "11"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Panton Reu",
+        "postcode": "23684",
+        "administration_code": "12"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Lhoong",
+        "postcode": "23354",
+        "administration_code": "01"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Lhoknga (Lho'nga)",
+        "postcode": "23355",
+        "administration_code": "02"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Indrapuri",
+        "postcode": "23363",
+        "administration_code": "03"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Seulimeum",
+        "postcode": "23951",
+        "administration_code": "04"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Mantasiek (Montasik)",
+        "postcode": "23362",
+        "administration_code": "05"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Sukamakmur (Suka Makmur)",
+        "postcode": "23361",
+        "administration_code": "06"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Darul Imarah",
+        "postcode": "23352",
+        "administration_code": "07"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Peukan Bada",
+        "postcode": "23351",
+        "administration_code": "08"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Mesjid Raya",
+        "postcode": "23381",
+        "administration_code": "09"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Ingin Jaya",
+        "postcode": "23371",
+        "administration_code": "10"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kuta Baro",
+        "postcode": "23372",
+        "administration_code": "11"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Darussalam",
+        "postcode": "23374",
+        "administration_code": "12"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Pulo Aceh",
+        "postcode": "23391",
+        "administration_code": "13"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Lembah Seulawah",
+        "postcode": "23952",
+        "administration_code": "14"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kota Jantho",
+        "postcode": "23918 - 23919",
+        "administration_code": "15"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kota Cot Glie (Kuta Cot Glie)",
+        "postcode": "23364",
+        "administration_code": "16"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Kota Malaka (Kuta Malaka)",
+        "postcode": "23365",
+        "administration_code": "17"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Simpang Tiga",
+        "postcode": "23375",
+        "administration_code": "18"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Darul Kamal",
+        "postcode": "23350",
+        "administration_code": "19"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Baitussalam",
+        "postcode": "23373",
+        "administration_code": "20"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Krueng Barona Jaya",
+        "postcode": "23370",
+        "administration_code": "21"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Leupung",
+        "postcode": "23353",
+        "administration_code": "22"
+    },
+    {
+		"province": "Nanggroe Aceh Darussalam",
+		"city": "Aceh Tengah",
+        "name": "Blang Bintang (Blank Bintang)",
+        "postcode": "23360",
+        "administration_code": "23"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Batee",
+        "postcode": "24152",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Delima",
+        "postcode": "24162",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Geumpang",
+        "postcode": "24167",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Geulumpang Tiga",
+        "postcode": "24183",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Indra Jaya",
+        "postcode": "24171",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kembang Tanjong",
+        "postcode": "24182",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kota Sigli",
+        "postcode": "24115 - 24119",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Mila",
+        "postcode": "24163",
+        "administration_code": "11"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Muara Tiga",
+        "postcode": "24153",
+        "administration_code": "12"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Mutiara",
+        "postcode": "24173",
+        "administration_code": "13"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Padang Tiji",
+        "postcode": "24161",
+        "administration_code": "14"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peukan Baro",
+        "postcode": "24172",
+        "administration_code": "15"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pidie",
+        "postcode": "24151",
+        "administration_code": "16"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sakti",
+        "postcode": "24164",
+        "administration_code": "17"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simpang Tiga",
+        "postcode": "24181",
+        "administration_code": "18"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tangse",
+        "postcode": "24166",
+        "administration_code": "19"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tiro/Truseb",
+        "postcode": "24174", 
+        "administration_code": "21"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Keumala",
+        "postcode": "24165", 
+        "administration_code": "22"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Mutiara Timur",
+        "postcode": "24175",
+        "administration_code": "24"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Grong Grong",
+        "postcode": "24150",
+        "administration_code": "25"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Mane",
+        "postcode": "24189",
+        "administration_code": "27"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Glumpang Baro",
+        "postcode": "24180",
+        "administration_code": "29"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Titeue",
+        "postcode": "24168",
+        "administration_code": "31"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Baktiya", 
+        "postcode": "24392",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Dewantara", 
+        "postcode": "24354",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuta Makmur", 
+        "postcode": "24371",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Lhoksukon", 
+        "postcode": "24382",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Matangkuli", 
+        "postcode": "24386",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Muara Batu", 
+        "postcode": "24355",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Meurah Mulia", 
+        "postcode": "24372",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Samudera", 
+        "postcode": "24374",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Seunuddon (Seunudon)", 
+        "postcode": "24393",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Syamtalira Aron", 
+        "postcode": "24381",
+        "administration_code": "10"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Syamtalira Bayu", 
+        "postcode": "24370",
+        "administration_code": "11"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tanah Luas", 
+        "postcode": "24387",
+        "administration_code": "12"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tanah Pasir", 
+        "postcode": "24390",
+        "administration_code": "13"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tanah Jambo Aye", 
+        "postcode": "24395",
+        "administration_code": "14"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sawang", 
+        "postcode": "24377",
+        "administration_code": "15"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Nisam", 
+        "postcode": "24378",
+        "administration_code": "16"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Cot Girek", 
+        "postcode": "24352",
+        "administration_code": "17"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langkahan", 
+        "postcode": "24394",
+        "administration_code": "18"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Baktiya Barat", 
+        "postcode": "24396",
+        "administration_code": "19"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Paya Bakong", 
+        "postcode": "24383",
+        "administration_code": "20"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Nibong", 
+        "postcode": "24385",
+        "administration_code": "21"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simpang Kramat (Keramat)", 
+        "postcode": "24313",
+        "administration_code": "22"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Lapang", 
+        "postcode": "24391",
+        "administration_code": "23"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pirak Timur", 
+        "postcode": "24384",
+        "administration_code": "24"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Geuredong Pase", 
+        "postcode": "24373",
+        "administration_code": "25"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Banda Baro", 
+        "postcode": "24376",
+        "administration_code": "26"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Nisam Antara", 
+        "postcode": "24379",
+        "administration_code": "27"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simeulue Tengah (Simeuleu Tengah)", 
+        "postcode": "23894",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Salang", 
+        "postcode": "23896",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teupah Barat", 
+        "postcode": "23897",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simeulue Timur (Simeuleu Timur)", 
+        "postcode": "23891",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teluk Dalam", 
+        "postcode": "23890",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simeulue Barat (Simeuleu Barat)", 
+        "postcode": "23892",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teupah Selatan", 
+        "postcode": "23898",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Alapan (Alafan)", 
+        "postcode": "23893",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teupah Tengah", 
+        "postcode": "23899",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simeulue Cut", 
+        "postcode": "23895",
+        "administration_code": "10"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pulau Banyak", 
+        "postcode": "24791",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simpang Kanan", 
+        "postcode": "24794",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Singkil", 
+        "postcode": "24785",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Gunung Meriah (Mariah)", 
+        "postcode": "24793",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kota Baharu", 
+        "postcode": "24792",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Singkil Utara", 
+        "postcode": "24791",
+        "administration_code": "10"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Danau Paris", 
+        "postcode": "24784",
+        "administration_code": "11"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Suro Makmur", 
+        "postcode": "24787",
+        "administration_code": "12"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Singkohor", 
+        "postcode": "24788",
+        "administration_code": "13"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuala Baru", 
+        "postcode": "24789",
+        "administration_code": "14"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pulau Banyak Barat", 
+        "postcode": "24790",
+        "administration_code": "16"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Samalanga", 
+        "postcode": "24264",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jeunieb", 
+        "postcode": "24263",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peudada", 
+        "postcode": "24262",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jeumpa", 
+        "postcode": "24251",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peusangan", 
+        "postcode": "24267",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Makmur", 
+        "postcode": "24357",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Gandapura (Ganda Pura)", 
+        "postcode": "24356",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pandrah", 
+        "postcode": "24265",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Juli", 
+        "postcode": "24250",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jangka", 
+        "postcode": "24261",
+        "administration_code": "10"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simpang Mamplam", 
+        "postcode": "24253",
+        "administration_code": "11"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peulimbang (Plimbang)", 
+        "postcode": "24266",
+        "administration_code": "12"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kota Juang", 
+        "postcode": "24252",
+        "administration_code": "13"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuala", 
+        "postcode": "24260",
+        "administration_code": "14"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peusangan Siblah Krueng", 
+        "postcode": "24269",
+        "administration_code": "15"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Peusangan Selatan", 
+        "postcode": "24268",
+        "administration_code": "16"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuta Blang", 
+        "postcode": "24358",
+        "administration_code": "17"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Blang Pidie", 
+        "postcode": "23764",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tangan-Tangan", 
+        "postcode": "23768",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Manggeng", 
+        "postcode": "23760",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Susoh", 
+        "postcode": "23765",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuala Batee", 
+        "postcode": "23766",
+        "administration_code": "05"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Babah Rot", 
+        "postcode": "23767",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Setia", 
+        "postcode": "23763",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jeumpa", 
+        "postcode": "23769",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Lembah Sabil", 
+        "postcode": "23762",
+        "administration_code": "09"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Blangkejeren (Blang Kejeren)", 
+        "postcode": "24655",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kutapanjang (Kuta Panjang)", 
+        "postcode": "24650",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Rikit Gaib", 
+        "postcode": "24651",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Terangun (Terangon)", 
+        "postcode": "24656",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pining (Pinding)", 
+        "postcode": "24659",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Blangpegayon (Blang Pegayon)", 
+        "postcode": "24653",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Puteri Betung (Putri Betung)", 
+        "postcode": "24658",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Dabun Gelang (Debun Gelang)", 
+        "postcode": "24652",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Blangjerango (Blang Jerango)", 
+        "postcode": "24655",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teripe/Tripe Jaya", 
+        "postcode": "24657",
+        "administration_code": "10"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pantan Cuaca", 
+        "postcode": "24654",
+        "administration_code": "11"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Teunom", 
+        "postcode": "23653",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Krueng Sabee", 
+        "postcode": "23654",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Setia Bhakti (Setia Bakti)", 
+        "postcode": "23655",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sampoiniet", 
+        "postcode": "23659",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jaya", 
+        "postcode": "23658",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Panga (Keude Panga)", 
+        "postcode": "23653",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Indra Jaya", 
+        "postcode": "23657",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Darul Hikmah", 
+        "postcode": "23656",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pasie Raya", 
+        "postcode": "23653",
+        "administration_code": "09"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuala", 
+        "postcode": "23661",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Seunagan", 
+        "postcode": "23671",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Seunagan Timur", 
+        "postcode": "23670",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Beutong", 
+        "postcode": "23672",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Darul Makmur", 
+        "postcode": "23662",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Suka Makmue", 
+        "postcode": "23674",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuala Pesisir", 
+        "postcode": "23660",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tadu Raya", 
+        "postcode": "23664",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tripa Makmur", 
+        "postcode": "23663",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Beutong Ateuh Banggalang", 
+        "postcode": "23673",
+        "administration_code": "10"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Manyak Payed", 
+        "postcode": "24471",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bendahara", 
+        "postcode": "24470",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Karang Baru", 
+        "postcode": "24476",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Seruway", 
+        "postcode": "24473",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kota Kualasinpang (Kota Kuala Simpang)", 
+        "postcode": "24475",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kejuruan Muda", 
+        "postcode": "24477",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tamiang Hulu", 
+        "postcode": "24479",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Rantau", 
+        "postcode": "24474",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Banda Mulia", 
+        "postcode": "24472",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bandar Pusaka", 
+        "postcode": "24478",
+        "administration_code": "10"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Tenggulun", 
+        "postcode": "24477",
+        "administration_code": "11"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sekerak", 
+        "postcode": "24476",
+        "administration_code": "12"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Pintu Rime Gayo", 
+        "postcode": "24554",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Permata", 
+        "postcode": "24585",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Syiah Utama", 
+        "postcode": "24586",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bandar", 
+        "postcode": "24582",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bukit", 
+        "postcode": "24581",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Wih Pesam", 
+        "postcode": "24580",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Timang Gajah", 
+        "postcode": "24555",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bener Kelipah", 
+        "postcode": "24583",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Mesidah", 
+        "postcode": "24584",
+        "administration_code": "09"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Gajah Putih", 
+        "postcode": "24553",
+        "administration_code": "10"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Meureudu", 
+        "postcode": "24186",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Ulim", 
+        "postcode": "24187",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jangka Buaya (Jangka Buya)", 
+        "postcode": "24186",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bandar Dua", 
+        "postcode": "24188",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Meurah Dua", 
+        "postcode": "24186",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Bandar Baru", 
+        "postcode": "24184",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Panteraja", 
+        "postcode": "24185",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Trienggadeng", 
+        "postcode": "24185",
+        "administration_code": "08"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Baiturrahman", 
+        "postcode": "23241 - 23245",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuta Alam", 
+        "postcode": "23126 - 23127",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Meuraxa", 
+        "postcode": "23231 - 23234",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Syiah Kuala", 
+        "postcode": "23111 - 23116",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Lueng Bata", 
+        "postcode": "23244 - 23249",
+        "administration_code": "05"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Kuta Raja", 
+        "postcode": "23128 - 23242",
+        "administration_code": "06"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Banda Raya", 
+        "postcode": "23238 - 23239",
+        "administration_code": "07"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Jaya Baru", 
+        "postcode": "23230 - 23236",
+        "administration_code": "08"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Ulee Kareng", 
+        "postcode": "23117 - 23119",
+        "administration_code": "09"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sukakarya", 
+        "postcode": "23517 - 23518",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sukajaya", 
+        "postcode": "23521 - 23529",
+        "administration_code": "02"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Muara Dua", 
+        "postcode": "24351",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Banda Sakti", 
+        "postcode": "24315 - 24351",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Blang Mangat", 
+        "postcode": "24375",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Muara Satu", 
+        "postcode": "24353",
+        "administration_code": "04"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langsa Timur", 
+        "postcode": "24411",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langsa Barat", 
+        "postcode": "24410 - 24414",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langsa Kota", 
+        "postcode": "24410 - 24414",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langsa Lama", 
+        "postcode": "24411 - 24416",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Langsa Baro", 
+        "postcode": "24415",
+        "administration_code": "05"
+    },
+
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Simpang Kiri", 
+        "postcode": "24781",
+        "administration_code": "01"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Penanggalan", 
+        "postcode": "24780",
+        "administration_code": "02"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Rundeng", 
+        "postcode": "24779",
+        "administration_code": "03"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Sultan Daulat", 
+        "postcode": "24783",
+        "administration_code": "04"
+    },
+    {
+        "province": "Nanggroe Aceh Darussalam",
+        "city": "Aceh Tengah",
+        "name": "Longkib", 
+        "postcode": "24782",
+        "administration_code": "05"
+    }
+]

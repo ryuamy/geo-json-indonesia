@@ -1,137 +1,171 @@
 [
 	{
-		"name": "Aceh (NAD)",
-		"administration_code": "11"
-	},
-	{
+		"country": "Indonesia",
 		"name": "Bali",
 		"administration_code": "51"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Banten",
 		"administration_code": "36"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Bengkulu",
 		"administration_code": "17"
 	},
 	{
+		"country": "Indonesia",
 		"name": "DI Yogyakarta",
 		"administration_code": "34"
 	},
 	{
+		"country": "Indonesia",
 		"name": "DKI Jakarta",
 		"administration_code": "31"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Gorontalo",
 		"administration_code": "75"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Jambi",
 		"administration_code": "15"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Jawa Barat",
 		"administration_code": "32"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Jawa Tengah",
 		"administration_code": "33"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Jawa Timur",
 		"administration_code": "35"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kalimantan Barat",
 		"administration_code": "61"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kalimantan Selatan",
 		"administration_code": "63"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kalimantan Tengah",
 		"administration_code": "62"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kalimantan Timur",
 		"administration_code": "64"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kalimantan Utara",
 		"administration_code": "65"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kepulauan Bangka Belitung",
 		"administration_code": "19"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Kepulauan Riau",
 		"administration_code": "21"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Lampung",
 		"administration_code": "18"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Maluku",
 		"administration_code": "81"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Maluku Utara",
 		"administration_code": "82"
 	},
 	{
-		"name": "Nusa Tenggara Barat (NTB)",
+		"country": "Indonesia",
+		"name": "Nanggroe Aceh Darussalam",
+		"administration_code": "11"
+	},
+	{
+		"country": "Indonesia",
+		"name": "Nusa Tenggara Barat",
 		"administration_code": "52"
 	},
 	{
-		"name": "Nusa Tenggara Timur (NTT)",
+		"country": "Indonesia",
+		"name": "Nusa Tenggara Timur",
 		"administration_code": "53"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Papua",
 		"administration_code": "91"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Papua Barat",
 		"administration_code": "92"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Riau",
 		"administration_code": "14"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sulawesi Barat",
 		"administration_code": "76"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sulawesi Selatan",
 		"administration_code": "73"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sulawesi Tengah",
 		"administration_code": "72"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sulawesi Tenggara",
 		"administration_code": "74"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sulawesi Utara",
 		"administration_code": "71"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sumatera Barat",
 		"administration_code": "13"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sumatera Selatan",
 		"administration_code": "16"
 	},
 	{
+		"country": "Indonesia",
 		"name": "Sumatera Utara",
 		"administration_code": "12"
 	}

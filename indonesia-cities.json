@@ -1,3086 +1,3086 @@
 [
 	{
-		"name": "Aceh Selatan",
-		"administration_code": "01",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Tenggara",
-		"administration_code": "02",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Timur",
-		"administration_code": "03",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Tengah",
-		"administration_code": "04",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Barat",
-		"administration_code": "05",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Besar",
-		"administration_code": "06",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Pidie",
-		"administration_code": "07",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Utara",
-		"administration_code": "08",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Simeulue",
-		"administration_code": "09",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Singkil",
-		"administration_code": "10",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Bireuen",
-		"administration_code": "11",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Barat Daya",
-		"administration_code": "12",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Gayo Lues",
-		"administration_code": "13",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Jaya",
-		"administration_code": "14",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Nagan Raya",
-		"administration_code": "15",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Aceh Tamiang",
-		"administration_code": "16",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Bener Meriah",
-		"administration_code": "17",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Pidie Jaya",
-		"administration_code": "18",
-		"postcode": null,
-		"area_level": "Kabupaten"
-	},
-	{
-		"name": "Banda Aceh",
-		"administration_code": "71",
-		"postcode": null,
-		"area_level": "Kota"
-	},
-	{
-		"name": "Sabang",
-		"administration_code": "72",
-		"postcode": null,
-		"area_level": "Kota"
-	},
-	{
-		"name": "Lhokseumawe",
-		"administration_code": "73",
-		"postcode": null,
-		"area_level": "Kota"
-	},
-	{
-		"name": "Langsa",
-		"administration_code": "74",
-		"postcode": null,
-		"area_level": "Kota"
-	},
-	{
-		"name": "Subulussalam",
-		"administration_code": "75",
-		"postcode": null,
-		"area_level": "Kota"
-	},
-	{
+		"province": "Bali",
 		"name": "Jembrana",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Tabanan",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Badung",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Gianyar",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Klungkung",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Bangli",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Karangasem",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Buleleng",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bali",
 		"name": "Denpasar",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Banten",
 		"name": "Pandeglang",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Banten",
 		"name": "Lebak",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Banten",
 		"name": "Tangerang",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Banten",
 		"name": "Serang",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Banten",
 		"name": "Tangerang",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Banten",
 		"name": "Cilegon",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Banten",
 		"name": "Serang",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Banten",
 		"name": "Tangerang Selatan",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Bengkulu Selatan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Rejang Lebong",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Bengkulu Utara",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Kaur",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Seluma",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Muko Muko",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Lebong",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Kepahiang",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Bengkulu",
 		"name": "Bengkulu Tengah",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
-		"name": "Tangerang Selatan",
-		"administration_code": "74",
-		"postcode": null,
+		"province": "Bengkulu",
+		"name": "Bengkulu",
+		"administration_code": "71",
 		"area_level": "Kota"
 	},
 	{
+		"province": "DI Yogyakarta",
 		"name": "Kulon Progo",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "DI Yogyakarta",
 		"name": "Bantul",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "DI Yogyakarta",
 		"name": "Gunung Kidul",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "DI Yogyakarta",
 		"name": "Sleman",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "DI Yogyakarta",
 		"name": "Yogyakarta",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Kepulauan Seribu",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Jakarta Pusat",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Jakarta Utara",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Jakarta Barat",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Jakarta Selatan",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "DKI Jakarta",
 		"name": "Jakarta Timur",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Gorontalo",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Boalemo",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Bone Bolango",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Pohuwato",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Gorontalo Utara",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Gorontalo",
 		"name": "Gorontalo",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jambi",
 		"name": "Kerinci",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Merangin",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Sarolangun",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Batang Hari",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Muaro Jambi",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Tanjung Jabung Barat",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Tanjung Jabung Timur",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Bungo",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Tebo",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jambi",
 		"name": "Jambi",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jambi",
 		"name": "Sungaipenuh",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bogor",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Sukabumi",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Cianjur",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bandung",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Garut",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Tasikmalaya",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Ciamis",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Kuningan",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Cirebon",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Majalengka",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Sumedang",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
-		"name": "\tIndramayu",
+		"province": "Jawa Barat",
+		"name": "Indramayu",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Subang",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Purwakarta",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Karawang",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bekasi",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bandung Barat",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Pangandaran",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bogor",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Sukabumi",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bandung",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Cirebon",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Bekasi",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Depok",
 		"administration_code": "76",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Cimahi",
 		"administration_code": "77",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Tasikmalaya",
 		"administration_code": "78",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Barat",
 		"name": "Banjar",
 		"administration_code": "79",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Cilacap",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Banyumas",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Purbalingga",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Banjarnegara",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Kebumen",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Purworejo",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Wonosobo",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Magelang",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Boyolali",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Klaten",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Sukoharjo",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Wonogiri",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Karanganyar",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Sragen",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Grobogan",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Blora",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Rembang",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Pati",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Kudus",
 		"administration_code": "19",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Jepara",
 		"administration_code": "20",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Demak",
 		"administration_code": "21",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Semarang",
 		"administration_code": "22",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Temanggung",
 		"administration_code": "23",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Kendal",
 		"administration_code": "24",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Batang",
 		"administration_code": "25",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Pekalongan",
 		"administration_code": "26",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Pemalang",
 		"administration_code": "27",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Tegal",
 		"administration_code": "28",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Brebes",
 		"administration_code": "29",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Magelang",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Surakarta",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Salatiga",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Semarang",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Pekalongan",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Tengah",
 		"name": "Tegal",
 		"administration_code": "76",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Pacitan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Ponorogo",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Trenggalek",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Tulungagung",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Blitar",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Kediri",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Malang",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Lumajang",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Jember",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Banyuwangi",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Bondowoso",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Situbondo",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Probolinggo",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Pasuruan",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Sidoarjo",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Mojokerto",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Jombang",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Nganjuk",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Madiun",
 		"administration_code": "19",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Magetan",
 		"administration_code": "20",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Ngawi",
 		"administration_code": "21",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Bojonegoro",
 		"administration_code": "22",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Tuban",
 		"administration_code": "23",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Lamongan",
 		"administration_code": "24",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Gresik",
 		"administration_code": "25",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Bangkalan",
 		"administration_code": "26",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Sampang",
 		"administration_code": "27",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Pamekasan",
 		"administration_code": "28",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Sumenep",
 		"administration_code": "29",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Kediri",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Blitar",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Malang",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Probolinggo",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Pasuruan",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Mojokerto",
 		"administration_code": "76",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Madiun",
 		"administration_code": "77",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Surabaya",
 		"administration_code": "78",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Jawa Timur",
 		"name": "Batu",
 		"administration_code": "79",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Sambas",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Mempawah",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Sanggau",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Ketapang",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Sintang",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Kapuas Hulu",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Bengkayang",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Landak",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Sekadau",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Melawi",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Kayong Utara",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Kubu Raya",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Pontianak",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Barat",
 		"name": "Singkawang",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Tanah Laut",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Kotabaru",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Banjar",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Barito Kuala",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Tapin",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Hulu Sungai Selatan",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Hulu Sungai Tengah",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Hulu Sungai Utara",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Tabalong",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Tanah Bumbu",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Balangan",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Banjarmasin",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Selatan",
 		"name": "Banjarbaru",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Kotawaringin Barat",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Kotawaringin Timur",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Kapuas",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Barito Selatan",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Barito Utara",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Katingan",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Seruyan",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Sukamara",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Lamandau",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Gunung Mas",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Pulang Pisau",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Murung Raya",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Barito Timur",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Tengah",
 		"name": "Palangka Raya",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Paser",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Kutai Kartanegara",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Berau",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Kutai Barat",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Kutai Timur",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Penajam Paser Utara",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Mahakam Ulu",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Balikpapan",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Samarinda",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Timur",
 		"name": "Bontang",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kalimantan Utara",
 		"name": "Bulungan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Utara",
 		"name": "Malinau",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Utara",
 		"name": "Nunukan",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Utara",
 		"name": "Tana Tidung",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kalimantan Utara",
 		"name": "Tarakan",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Bangka",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Belitung",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Bangka Selatan",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Bangka Tengah",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Bangka Barat",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Belitung Timur",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Bangka Belitung",
 		"name": "Pangkal Pinang",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Bintan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Karimun",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Natuna",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Lingga",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Kepulauan Anambas",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Batam",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Kepulauan Riau",
 		"name": "Tanjung Pinang",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Lampung",
 		"name": "Lampung Selatan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Lampung Tengah",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Lampung Utara",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Lampung Barat",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Tulang Bawang",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Tanggamus",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Lampung Timur",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Way Kanan",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Pesawaran",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Pringsewu",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Mesuji",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Tulang Bawang Barat",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Pesisir Barat",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Lampung",
 		"name": "Bandar Lampung",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Lampung",
 		"name": "Metro",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Maluku",
 		"name": "Maluku Tengah",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Maluku Tenggara",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
-		"name": "Kepulauan Tanimbar (Maluku Tenggara Barat)",
+		"province": "Maluku",
+		"name": "Kepulauan Tanimbar",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Buru",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Seram Bagian Timur",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Seram Bagian Barat",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Kepulauan Aru",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Maluku Barat Daya",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Buru Selatan",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku",
 		"name": "Ambon",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Maluku",
 		"name": "Tual",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Halmahera Barat",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Halmahera Tengah",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Halmahera Utara",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Halmahera Selatan",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Kepulauan Sula",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Halmahera Timur",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Pulau Morotai",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Pulau Taliabu",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Ternate",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Maluku Utara",
 		"name": "Tidore Kepulauan",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Selatan",
+		"administration_code": "01",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Tenggara",
+		"administration_code": "02",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Timur",
+		"administration_code": "03",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Tengah",
+		"administration_code": "04",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Barat",
+		"administration_code": "05",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Besar",
+		"administration_code": "06",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Pidie",
+		"administration_code": "07",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Utara",
+		"administration_code": "08",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Simeulue",
+		"administration_code": "09",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Singkil",
+		"administration_code": "10",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Bireuen",
+		"administration_code": "11",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Barat Daya",
+		"administration_code": "12",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Gayo Lues",
+		"administration_code": "13",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Jaya",
+		"administration_code": "14",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Nagan Raya",
+		"administration_code": "15",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Aceh Tamiang",
+		"administration_code": "16",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Bener Meriah",
+		"administration_code": "17",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Pidie Jaya",
+		"administration_code": "18",
+		"area_level": "Kabupaten"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Banda Aceh",
+		"administration_code": "71",
+		"area_level": "Kota"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Sabang",
+		"administration_code": "72",
+		"area_level": "Kota"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Lhokseumawe",
+		"administration_code": "73",
+		"area_level": "Kota"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Langsa",
+		"administration_code": "74",
+		"area_level": "Kota"
+	},
+	{
+		"province": "Nanggroe Aceh Darussalam",
+		"name": "Subulussalam",
+		"administration_code": "75",
+		"area_level": "Kota"
+	},
+	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Lombok Barat",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Lombok Tengah",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Lombok Timur",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Sumbawa",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Dompu",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Bima",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Sumbawa Barat",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Lombok Utara",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Mataram",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Nusa Tenggara Barat",
 		"name": "Bima",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Kupang",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Timor Tengah Selatan",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Timor Tengah Utara",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Belu",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Alor",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Flores Timur",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sikka",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Ende",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Ngada",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Manggarai",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sumba Timur",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sumba Barat",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Lembata",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Rote Ndao",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Manggarai Barat",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Nagekeo",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sumba Tengah",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sumba Barat Daya",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Manggarai Timur",
 		"administration_code": "19",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Sabu Raijua",
 		"administration_code": "20",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Malaka",
 		"administration_code": "21",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Nusa Tenggara Timur",
 		"name": "Kupang",
-		"administration_code": "22",
-		"postcode": null,
+		"administration_code": "71",
 		"area_level": "Kota"
 	},
 	{
+		"province": "Papua",
 		"name": "Merauke",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Jayawijaya",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Jayapura",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Nabire",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Kepulauan Yapen",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Biak Numfor",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Puncak Jaya",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Paniai",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Mimika",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Sarmi",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Keerom",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Pegunungan Bintang",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Yahukimo",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Tolikara",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Waropen",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Boven Digoel",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Mappi",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Asmat",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Supiori",
 		"administration_code": "19",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Mamberamo Raya",
 		"administration_code": "20",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Mamberamo Tengah",
 		"administration_code": "21",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Yalimo",
 		"administration_code": "22",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Lanny Jaya",
 		"administration_code": "23",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Nduga",
 		"administration_code": "24",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Puncak",
 		"administration_code": "25",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Dogiyai",
 		"administration_code": "26",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Intan Jaya",
 		"administration_code": "27",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Deiyai",
 		"administration_code": "28",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua",
 		"name": "Jayapura",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Sorong",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Manokwari",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Fakfak",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Sorong Selatan",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Raja Ampat",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Teluk Bintuni",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Teluk Wondama",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Kaimana",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Tambrauw",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Maybrat",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Manokwari Selatan",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Pegunungan Arfak",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Papua Barat",
 		"name": "Sorong",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Riau",
 		"name": "Kampar",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Indragiri Hulu",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Bengkalis",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Indragiri Hilir",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Pelalawan",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Rokan Hulu",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Rokan Hilir",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Siak",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Kuantan Singingi",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Kepulauan Meranti",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Riau",
 		"name": "Pekanbaru",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Riau",
 		"name": "Dumai",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
-		"name": "Pasangkayu (Mamuju Utara)",
+		"province": "Sulawesi Barat",
+		"name": "Pasangkayu",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Barat",
 		"name": "Mamuju",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Barat",
 		"name": "Mamasa",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Barat",
 		"name": "Polewali Mandar",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Barat",
 		"name": "Majene",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Barat",
 		"name": "Mamuju Tengah",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Kepulauan Selayar",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Bulukumba",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Bantaeng",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Jeneponto",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Takalar",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Gowa",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Sinjai",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Bone",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Maros",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Pangkajene Kepulauan",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Barru",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Soppeng",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Wajo",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Sidenreng Rappang",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Pinrang",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Enrekang",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Luwu",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Tana Toraja",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Luwu Utara",
 		"administration_code": "22",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Luwu Timur",
 		"administration_code": "24",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Toraja Utara",
 		"administration_code": "26",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Makassar",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Parepare",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Selatan",
 		"name": "Palopo",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Banggai",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Poso",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Donggala",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Toli-Toli",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Buol",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Morowali",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Banggai Kepulauan",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Parigi Moutong",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Tojo Una-Una",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Sigi",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Banggai Laut",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Morowali Utara",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tengah",
 		"name": "Palu",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Kolaka",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Konawe",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Muna",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Buton",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Konawe Selatan",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Bombana",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Wakatobi",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Kolaka Utara",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Konawe Utara",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Buton Utara",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Kolaka Timur",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Konawe Kepulauan",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Muna Barat",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Buton Tengah",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Buton Selatan",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Kendari",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Tenggara",
 		"name": "Bau-Bau",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Bolaang Mongondow",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Minahasa",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Kepulauan Sangihe",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Kepulauan Talaud",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Minahasa Selatan",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Minahasa Utara",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Minahasa Tenggara",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Bolaang Mongondow Utara",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
-		"name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+		"province": "Sulawesi Utara",
+		"name": "Kepulauan Siau Tagulandang Biaro",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Bolaang Mongondow Timur",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Bolaang Mongondow Selatan",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Manado",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Bitung",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Tomohon",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sulawesi Utara",
 		"name": "Kotamobagu",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Pesisir Selatan",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Solok",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Sijunjung",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Tanah Datar",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Padang Pariaman",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Agam",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Lima Puluh Kota",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Pasaman",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Kepulauan Mentawai",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Dharmasraya",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Solok Selatan",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Pasaman Barat",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Padang",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Solok",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Sawah Lunto",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Padang Panjang",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Bukittinggi",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Payakumbuh",
 		"administration_code": "76",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Barat",
 		"name": "Pariaman",
 		"administration_code": "77",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Ogan Komering Ulu",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Ogan Komering Ilir",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Muara Enim",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Lahat",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Musi Rawas",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Musi Banyuasin",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Banyuasin",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Ogan Komering Ulu Timur",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Ogan Komering Ulu Selatan",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Ogan Ilir",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Empat Lawang",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Penukal Abab Lematang Ilir",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Musi Rawas Utara",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Palembang",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Pagar Alam",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Lubuk Linggau",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Selatan",
 		"name": "Prabumulih",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Tapanuli Tengah",
 		"administration_code": "01",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Tapanuli Utara",
 		"administration_code": "02",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Tapanuli Selatan",
 		"administration_code": "03",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Nias",
 		"administration_code": "04",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Langkat",
 		"administration_code": "05",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Karo",
 		"administration_code": "06",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Deli Serdang",
 		"administration_code": "07",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Simalungun",
 		"administration_code": "08",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Asahan",
 		"administration_code": "09",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Labuhanbatu",
 		"administration_code": "10",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Dairi",
 		"administration_code": "11",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Toba Samosir",
 		"administration_code": "12",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Mandailing Natal",
 		"administration_code": "13",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Nias Selatan",
 		"administration_code": "14",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Pakpak Bharat",
 		"administration_code": "15",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Humbang Hasundutan",
 		"administration_code": "16",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Samosir",
 		"administration_code": "17",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Serdang Bedagai",
 		"administration_code": "18",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Batu Bara",
 		"administration_code": "19",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Padang Lawas Utara",
 		"administration_code": "20",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Padang Lawas",
 		"administration_code": "21",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Labuhanbatu Selatan",
 		"administration_code": "22",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Labuhanbatu Utara",
 		"administration_code": "23",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Nias Utara",
 		"administration_code": "24",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Nias Barat",
 		"administration_code": "25",
-		"postcode": null,
 		"area_level": "Kabupaten"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Medan",
 		"administration_code": "71",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Pematang Siantar",
 		"administration_code": "72",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Sibolga",
 		"administration_code": "73",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Tanjung Balai",
 		"administration_code": "74",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Binjai",
 		"administration_code": "75",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Tebing Tinggi",
 		"administration_code": "76",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Padang Sidempuan",
 		"administration_code": "77",
-		"postcode": null,
 		"area_level": "Kota"
 	},
 	{
+		"province": "Sumatera Utara",
 		"name": "Gunungsitoli",
 		"administration_code": "78",
-		"postcode": null,
 		"area_level": "Kota"
 	}
 ]
