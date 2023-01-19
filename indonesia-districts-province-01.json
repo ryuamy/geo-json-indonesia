@@ -1,0 +1,458 @@
+[
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"city_area_level": "Kabupaten",
+		"name": "Negara",
+		"postcode": "82212 - 82218",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"city_area_level": "Kabupaten",
+		"name": "Mendoyo",
+		"postcode": "82261",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"city_area_level": "Kabupaten",
+		"name": "Pekutatan",
+		"postcode": "82262",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"city_area_level": "Kabupaten",
+		"name": "Melaya",
+		"postcode": "82252",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Jembrana",
+		"city_area_level": "Kabupaten",
+		"name": "Jembrana",
+		"postcode": "82211 - 82218",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Selemadeg",
+		"postcode": "82164",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Salamadeg Timur (Salemadeg Timur)",
+		"postcode": "82160",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Salemadeg Barat",
+		"postcode": "82162",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Kerambitan",
+		"postcode": "82161",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Tabanan",
+		"postcode": "82111 - 82115",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Kediri",
+		"postcode": "82121 - 82123",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Marga",
+		"postcode": "82181",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Penebel",
+		"postcode": "82152",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Baturiti",
+		"postcode": "82191",
+		"administration_code": "09"
+	},
+    {
+		"province": "Bali",
+		"city": "Tabanan",
+		"city_area_level": "Kabupaten",
+		"name": "Pupuan",
+		"postcode": "82163",
+		"administration_code": "10"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Kuta",
+		"postcode": "80361",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Mengwi",
+		"postcode": "80351",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Abiansemal",
+		"postcode": "80352",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Petang",
+		"postcode": "80353",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Kuta Selatan",
+		"postcode": "80362",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Badung",
+		"city_area_level": "Kabupaten",
+		"name": "Kuta Utara",
+		"postcode": "80363",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Sukawati",
+		"postcode": "80582",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Belah Batuh (Blahbatuh)",
+		"postcode": "80581",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Gianyar",
+		"postcode": "80511 - 80515",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Tampaksiring (Tampak Siring)",
+		"postcode": "80552",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Ubud",
+		"postcode": "80571",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Tegallalang",
+		"postcode": "80561",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Gianyar",
+		"city_area_level": "Kabupaten",
+		"name": "Payangan",
+		"postcode": "80572",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"city_area_level": "Kabupaten",
+		"name": "Nusa Penida (Nusapenida)",
+		"postcode": "80771",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"city_area_level": "Kabupaten",
+		"name": "Banjarangkan",
+		"postcode": "80752",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"city_area_level": "Kabupaten",
+		"name": "Klungkung",
+		"postcode": "80711 - 80716",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Klungkung",
+		"city_area_level": "Kabupaten",
+		"name": "Dawan",
+		"postcode": "80761",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"city_area_level": "Kabupaten",
+		"name": "Susut",
+		"postcode": "80661",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"city_area_level": "Kabupaten",
+		"name": "Bangli",
+		"postcode": "80611 - 80614",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"city_area_level": "Kabupaten",
+		"name": "Tembuku",
+		"postcode": "80671",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Bangli",
+		"city_area_level": "Kabupaten",
+		"name": "Kintamani",
+		"postcode": "80652",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Rendang",
+		"postcode": "80863",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Sidemen",
+		"postcode": "80864",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Manggis",
+		"postcode": "80871",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Karangasem",
+		"postcode": "80811 - 80813",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Abang",
+		"postcode": "80852",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Bebandem",
+		"postcode": "80861",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Selat",
+		"postcode": "80862",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Karangasem",
+		"city_area_level": "Kabupaten",
+		"name": "Kubu",
+		"postcode": "80853",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Gerokgak",
+		"postcode": "81155",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Seririt",
+		"postcode": "81153",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Busung biu (Busungbiu)",
+		"postcode": "81154",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Banjar",
+		"postcode": "81152",
+		"administration_code": "04"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Sukasada",
+		"postcode": "81161",
+		"administration_code": "05"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Buleleng",
+		"postcode": "81111 - 81119",
+		"administration_code": "06"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Sawan",
+		"postcode": "81171",
+		"administration_code": "07"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Kubutambahan",
+		"postcode": "81172",
+		"administration_code": "08"
+	},
+    {
+		"province": "Bali",
+		"city": "Buleleng",
+		"city_area_level": "Kabupaten",
+		"name": "Tejakula",
+		"postcode": "81173",
+		"administration_code": "09"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"city_area_level": "Kota",
+        "name": "Denpasar Selatan",
+		"postcode": "80221 - 80229",
+		"administration_code": "01"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"city_area_level": "Kota",
+        "name": "Denpasar Timur",
+		"postcode": "80232 - 80239",
+		"administration_code": "02"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"city_area_level": "Kota",
+        "name": "Denpasar Barat",
+		"postcode": "80112 - 80119",
+		"administration_code": "03"
+	},
+    {
+		"province": "Bali",
+		"city": "Denpasar",
+		"city_area_level": "Kota",
+        "name": "Denpasar Utara",
+		"postcode": "80111 - 80239",
+		"administration_code": "04"
+	}
+]

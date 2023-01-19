@@ -1,0 +1,1034 @@
+[
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Kedurang",
+        "postcode": "38553",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Seginim",
+        "postcode": "38552",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Pino",
+        "postcode": "38570",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Manna",
+        "postcode": "38511",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Kota Manna",
+        "postcode": "38511 - 38513",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Pino Raya (Pinoraya)",
+        "postcode": "38572",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Kedurang Ilir",
+        "postcode": "38554",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Air Nipis",
+        "postcode": "38571",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Ulu Manna",
+        "postcode": "38573",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Bunga Mas",
+        "postcode": "38511",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Selatan",
+        "city_area_level": "Kabupaten",
+        "name": "Pasar Manna",
+        "postcode": "38513 - 38518",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Kota Padang",
+        "postcode": "39183",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Padang Ulak Tanding",
+        "postcode": "39180",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Sindang Kelingi",
+        "postcode": "39155",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Curup",
+        "postcode": "39111 - 39125",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Bermani Ulu",
+        "postcode": "39152",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Selupu Rejang",
+        "postcode": "39153",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Curup Utara",
+        "postcode": "39119 - 39125",
+        "administration_code": "16"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Curup Timur",
+        "postcode": "39115 - 39125",
+        "administration_code": "17"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Curup Selatan",
+        "postcode": "39112 - 39125",
+        "administration_code": "18"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Curup Tengah",
+        "postcode": "39113 - 39125",
+        "administration_code": "19"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Binduriang",
+        "postcode": "39182",
+        "administration_code": "20"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Sindang Beliti Ulu",
+        "postcode": "39181",
+        "administration_code": "21"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Sindang Dataran (Sindang Daratan)",
+        "postcode": "39154",
+        "administration_code": "22"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Sindang Beliti Ilir",
+        "postcode": "39184",
+        "administration_code": "23"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Rejang Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Bermani Ulu Raya",
+        "postcode": "39151",
+        "administration_code": "24"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Enggano",
+        "postcode": "38387",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Kerkap",
+        "postcode": "38379",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Kota Arga Makmur",
+        "postcode": "38611 - 38619",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Giri Mulia (Giri Mulya)",
+        "postcode": "38655",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Padang Jaya",
+        "postcode": "38657",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Lais",
+        "postcode": "38654",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Batik Nau",
+        "postcode": "38656",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Ketahun",
+        "postcode": "38361",
+        "administration_code": "12"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Napal Putih",
+        "postcode": "38363",
+        "administration_code": "13"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Putri Hijau",
+        "postcode": "38326",
+        "administration_code": "14"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Air Besi",
+        "postcode": "38575",
+        "administration_code": "15"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Air Napal",
+        "postcode": "38373",
+        "administration_code": "16"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Hulu Palik",
+        "postcode": "38374",
+        "administration_code": "19"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Air Padang",
+        "postcode": "38653",
+        "administration_code": "20"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Arma Jaya",
+        "postcode": "38611",
+        "administration_code": "21"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Tanjung Agung Palik",
+        "postcode": "38576",
+        "administration_code": "22"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Ulok Kupai",
+        "postcode": "38364",
+        "administration_code": "23"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Pinang Raya",
+        "postcode": "38362",
+        "administration_code": "24"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Marga Sakti Sebelat (Marga Sakti)",
+        "postcode": "38325",
+        "administration_code": "25"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Kinal",
+        "postcode": "38962",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Tanjung Kemuning",
+        "postcode": "38955",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Kaur Utara",
+        "postcode": "38956",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Kaur Tengah",
+        "postcode": "38961",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Kaur Selatan",
+        "postcode": "38963",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Maje",
+        "postcode": "38965",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Nasal",
+        "postcode": "38964",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Semidang Gumai (Gumay)",
+        "postcode": "38967",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Kelam Tengah",
+        "postcode": "38954",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Luas",
+        "postcode": "38960",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Muara Sahung",
+        "postcode": "38966",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Tetap (Muara Tetap)",
+        "postcode": "38968",
+        "administration_code": "12"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Lungkang Kule",
+        "postcode": "38957",
+        "administration_code": "13"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Padang Guci Hilir",
+        "postcode": "38958",
+        "administration_code": "14"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kaur",
+        "city_area_level": "Kabupaten",
+        "name": "Padang Guci Hulu",
+        "postcode": "38959",
+        "administration_code": "15"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Sukaraja",
+        "postcode": "38877",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Seluma",
+        "postcode": "38876",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Talo",
+        "postcode": "38874",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Semidang Alas",
+        "postcode": "38873",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Semidang Alas Maras",
+        "postcode": "38875",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Air Periukan",
+        "postcode": "38881",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Lubuk Sandi",
+        "postcode": "38882",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Seluma Barat",
+        "postcode": "38883",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Seluma Timur",
+        "postcode": "38885",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Seluma Utara",
+        "postcode": "38884",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Seluma Selatan",
+        "postcode": "38878",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Talo Kecil",
+        "postcode": "38888",
+        "administration_code": "12"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Ulu Talo",
+        "postcode": "38886",
+        "administration_code": "13"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Seluma",
+        "city_area_level": "Kabupaten",
+        "name": "Ilir Talo",
+        "postcode": "38887",
+        "administration_code": "14"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Lubuk Pinang",
+        "postcode": "38756",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Kota Mukomuko (Mukomuko Utara)",
+        "postcode": "38711 - 38719",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Teras Terunjam",
+        "postcode": "38758",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Pondok Suguh",
+        "postcode": "38766",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Ipuh (Muko Muko Selatan)",
+        "postcode": "38763",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Malin Deman",
+        "postcode": "38762",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Air Rami",
+        "postcode": "38764",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Teramang Jaya",
+        "postcode": "38760",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Selagan Raya",
+        "postcode": "38769",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Penarik",
+        "postcode": "38768",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "XIV Koto",
+        "postcode": "38755",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "V Koto",
+        "postcode": "38757",
+        "administration_code": "12"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Air Majunto",
+        "postcode": "38767",
+        "administration_code": "13"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Air Dikit",
+        "postcode": "38765",
+        "administration_code": "14"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Muko Muko",
+        "city_area_level": "Kabupaten",
+        "name": "Sungai Rumbai",
+        "postcode": "38761",
+        "administration_code": "15"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Lebong Utara",
+        "postcode": "39259",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Lebong Atas",
+        "postcode": "39265",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Lebong Tengah",
+        "postcode": "39263",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Lebong Selatan",
+        "postcode": "39258",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Rimbo Pengadang",
+        "postcode": "39261",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Topos",
+        "postcode": "39260",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Bingin Kuning",
+        "postcode": "39262",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Lebong Sakti",
+        "postcode": "39267",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Pelabai",
+        "postcode": "39266",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Amen",
+        "postcode": "39264",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Uram Jaya",
+        "postcode": "39268",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Lebong",
+        "city_area_level": "Kabupaten",
+        "name": "Pinang Belapis",
+        "postcode": "39269",
+        "administration_code": "12"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Bermani Ilir",
+        "postcode": "39374",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Ujan Mas",
+        "postcode": "39370",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Tebat Karai",
+        "postcode": "39373",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Kepahiang",
+        "postcode": "39372",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Merigi",
+        "postcode": "39371",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Kebawetan",
+        "postcode": "39376",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Seberang Musi",
+        "postcode": "39377",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Kepahiang",
+        "city_area_level": "Kabupaten",
+        "name": "Muara Kemumu",
+        "postcode": "39375",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Karang Tinggi",
+        "postcode": "38382",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Talang Empat",
+        "postcode": "38385",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Pondok Kelapa",
+        "postcode": "38371",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Pematang Tiga",
+        "postcode": "38370",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Pagar Jati",
+        "postcode": "38381",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Taba Penanjung",
+        "postcode": "38388",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Merigi Kelindang",
+        "postcode": "38386",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Merigi Sakti",
+        "postcode": "38383",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Pondok Kubang",
+        "postcode": "38375 - 38378",
+        "administration_code": "09"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Bang Haji",
+        "postcode": "38372",
+        "administration_code": "10"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu Tengah",
+        "city_area_level": "Kabupaten",
+        "name": "Semidang Lagan",
+        "postcode": "38382 - 38388",
+        "administration_code": "11"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Selebar",
+        "postcode": "38211 - 38216",
+        "administration_code": "01"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Gading Cempaka",
+        "postcode": "38221 - 38229",
+        "administration_code": "02"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Teluk Segara",
+        "postcode": "38113 - 38119",
+        "administration_code": "03"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Muara Bangka Hulu",
+        "postcode": "38121 - 38126",
+        "administration_code": "04"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Kampung Melayu",
+        "postcode": "38215 - 38216",
+        "administration_code": "05"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Ratu Agung",
+        "postcode": "38223 - 38228",
+        "administration_code": "06"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Ratu Samban",
+        "postcode": "38221 - 38227",
+        "administration_code": "07"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Sungai Serut",
+        "postcode": "38119",
+        "administration_code": "08"
+    },
+    {
+        "province": "Bengkulu",
+        "city": "Bengkulu",
+        "city_area_level": "Kota",
+        "name": "Singaran Pati",
+        "postcode": "38221 - 38229",
+        "administration_code": "09"
+    }
+]
