@@ -1,0 +1,618 @@
+[
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Limboto",
+        "postcode": "96211 - 96219",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Telaga",
+        "postcode": "96181",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Batudaa",
+        "postcode": "96243",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Tibawa",
+        "postcode": "96231",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Batudaa Pantai",
+        "postcode": "96244",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Boliohuto (Boliyohuto)",
+        "postcode": "96235",
+        "administration_code": "09"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Telaga Biru",
+        "postcode": "96183",
+        "administration_code": "10"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Bongomeme",
+        "postcode": "96246",
+        "administration_code": "11"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Tolangohula",
+        "postcode": "96222",
+        "administration_code": "13"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Mootilango",
+        "postcode": "96150 - 96159",
+        "administration_code": "14"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Pulubala",
+        "postcode": "96161 - 96172",
+        "administration_code": "16"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Limboto Barat",
+        "postcode": "96215 - 96217",
+        "administration_code": "17"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Tilango",
+        "postcode": "96182",
+        "administration_code": "18"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Tabongo",
+        "postcode": "96242",
+        "administration_code": "19"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Biluhu",
+        "postcode": "96245",
+        "administration_code": "20"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Asparaga",
+        "postcode": "96221",
+        "administration_code": "21"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Talaga Jaya (Telaga Jaya)",
+        "postcode": "96184",
+        "administration_code": "22"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Bilato",
+        "postcode": "96234",
+        "administration_code": "23"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "name": "Dungaliyo",
+        "postcode": "96241",
+        "administration_code": "24"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Paguyaman",
+        "postcode": "96260",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Wonosari",
+        "postcode": "96262",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Dulupi",
+        "postcode": "96267",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Tilamuta",
+        "postcode": "96263",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Mananggu",
+        "postcode": "96265",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Botumoita",
+        "postcode": "96264",
+        "administration_code": "06"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Boalemo",
+        "city_area_level": "Kabupaten",
+        "name": "Paguyaman Pantai",
+        "postcode": "96261",
+        "administration_code": "07"
+    },
+    {
+        "province": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "city": "Bone Bolango",
+        "name": "Tapa",
+        "postcode": "96545",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "city": "Bone Bolango",
+        "name": "Kabila",
+        "postcode": "96552",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "city": "Bone Bolango",
+        "name": "Suwawa",
+        "postcode": "96562",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "city": "Bone Bolango",
+        "name": "Bonepantai",
+        "postcode": "96573",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bulango Utara",
+        "postcode": "96544",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Tilongkabila",
+        "postcode": "96554",
+        "administration_code": "06"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Botupingge (Botu Pingge)",
+        "postcode": "96551",
+        "administration_code": "07"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Kabila Bone",
+        "postcode": "96553",
+        "administration_code": "08"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bone",
+        "postcode": "96571",
+        "administration_code": "09"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bone Raya",
+        "postcode": "96572",
+        "administration_code": "10"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Suwawa Timur",
+        "postcode": "96565",
+        "administration_code": "11"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Suwawa Selatan",
+        "postcode": "96563",
+        "administration_code": "12"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Suwawa Tengah",
+        "postcode": "96564",
+        "administration_code": "13"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bulango Ulu",
+        "postcode": "96543",
+        "administration_code": "14"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bulango Selatan",
+        "postcode": "96541",
+        "administration_code": "15"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bulango Timur",
+        "postcode": "96542",
+        "administration_code": "16"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Bulawa",
+        "postcode": "96574",
+        "administration_code": "17"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Bone Bolango",
+        "city_area_level": "Kabupaten",
+        "name": "Pinogu",
+        "postcode": "96561",
+        "administration_code": "18"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Popayato",
+        "postcode": "96466",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Lemito",
+        "postcode": "96468",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city_area_level": "Kabupaten",
+        "city": "Pohuwato",
+        "name": "Randangan",
+        "postcode": "96469",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Marisa",
+        "postcode": "96365",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Paguat",
+        "postcode": "96362",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Patilanggio",
+        "postcode": "96366",
+        "administration_code": "06"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Taluditi (Taluduti)",
+        "postcode": "96464",
+        "administration_code": "07"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Dengilo",
+        "postcode": "96361",
+        "administration_code": "08"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Buntulia",
+        "postcode": "96363",
+        "administration_code": "09"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Duhiadaa",
+        "postcode": "96364",
+        "administration_code": "10"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Wanggarasi",
+        "postcode": "96465 - 96469",
+        "administration_code": "11"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Popayato Timur",
+        "postcode": "96367",
+        "administration_code": "12"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Pohuwato",
+        "city_area_level": "Kabupaten",
+        "name": "Popayato Barat",
+        "postcode": "96467",
+        "administration_code": "13"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Atinggola",
+        "postcode": "96516",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Kwandang",
+        "postcode": "96518",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Anggrek",
+        "postcode": "96525",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Sumalata",
+        "postcode": "96514",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Tolinggula",
+        "postcode": "96524",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Dentuma Raya",
+        "postcode": "96513",
+        "administration_code": "06"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Tomolito",
+        "postcode": "96512",
+        "administration_code": "07"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Ponelo Kepulauan",
+        "postcode": "96517",
+        "administration_code": "08"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Monano",
+        "postcode": "96526",
+        "administration_code": "09"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Dorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Biau",
+        "postcode": "96523",
+        "administration_code": "10"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo Utara",
+        "city_area_level": "Kabupaten",
+        "name": "Sumalata Timur",
+        "postcode": "96515",
+        "administration_code": "11"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Kota Barat",
+        "postcode": "96131 - 96136",
+        "administration_code": "01"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Kota Selatan",
+        "postcode": "96111 - 96115",
+        "administration_code": "02"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Kota Utara",
+        "postcode": "96121 - 96123",
+        "administration_code": "03"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Dungingi",
+        "postcode": "96135 - 96139",
+        "administration_code": "04"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Kota Timur",
+        "postcode": "96112 - 96119",
+        "administration_code": "05"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Kota Tengah",
+        "postcode": "96127 - 96129",
+        "administration_code": "06"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Sipatana",
+        "postcode": "96121 - 96126",
+        "administration_code": "07"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Dumbo Raya",
+        "postcode": "96112 - 96119",
+        "administration_code": "08"
+    },
+    {
+        "province": "Gorontalo",
+        "city": "Gorontalo",
+        "city_area_level": "Kota",
+        "name": "Hulonthalangi",
+        "postcode": "96111 - 96117",
+        "administration_code": "09"
+    }
+]
